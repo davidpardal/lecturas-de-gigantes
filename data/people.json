@@ -1,0 +1,1374 @@
+[
+  {
+    "id": "naval-ravikant",
+    "name": "Naval Ravikant",
+    "role": "Emprendedor e inversor",
+    "bio": "Cofundador de AngelList. En nav.al y en el capítulo de lecturas de The Almanack of Naval Ravikant ha dejado por escrito los libros que regala, relee o considera imprescindibles.",
+    "initials": "NR",
+    "hue": 28,
+    "recommendations": [
+      {
+        "bookId": "beginning-of-infinity",
+        "quote": "I credit this book as being the only book in the last decade—except maybe a few of Nassim Taleb’s works and maybe one or two other scattered books—that made me smarter.",
+        "sourceUrl": "https://nav.al/think",
+        "sourceLabel": "Conversación de Naval Ravikant en nav.al, «This Book Changed the Way I Think» (2021)."
+      },
+      {
+        "bookId": "fabric-of-reality",
+        "quote": "I’m currently stuck in a loop where, at least in science, I’m only going to read The Beginning of Infinity and The Fabric of Reality over and over again until I understand them fully.",
+        "sourceUrl": "https://nav.al/read",
+        "sourceLabel": "Conversación de Naval Ravikant en nav.al, «Read the Best 100 Books Over and Over Again» (2021)."
+      },
+      {
+        "bookId": "skin-in-the-game",
+        "quote": "Taleb’s Skin In The Game is required reading. If you want to get anywhere in modern life and understand how modern systems work, then Skin In The Game would be near the top of my list to read.",
+        "sourceUrl": "https://nav.al/accountability-equity",
+        "sourceLabel": "Conversación de Naval Ravikant en nav.al, «Take Accountability to Earn Equity» (2019)."
+      },
+      {
+        "bookId": "wealth-of-nations",
+        "quote": "Instead of reading a business book, pick up Adam Smith’s The Wealth of Nations.",
+        "sourceUrl": "https://nav.al/love-read",
+        "sourceLabel": "Conversación de Naval Ravikant en nav.al, «Read What You Love Until You Love to Read»."
+      },
+      {
+        "bookId": "origin-of-species",
+        "quote": "Instead of reading a book on biology or evolution that’s written today, I would pick up Darwin’s Origin of the Species.",
+        "sourceUrl": "https://nav.al/love-read",
+        "sourceLabel": "Conversación de Naval Ravikant en nav.al, «Read What You Love Until You Love to Read»."
+      },
+      {
+        "bookId": "six-easy-pieces",
+        "quote": "Instead of reading advanced books on cosmology […] you can pick up Richard Feynman’s Six Easy Pieces and start with basic physics.",
+        "sourceUrl": "https://nav.al/love-read",
+        "sourceLabel": "Conversación de Naval Ravikant en nav.al, «Read What You Love Until You Love to Read»."
+      },
+      {
+        "bookId": "sapiens",
+        "quote": "Sapiens is the best book of the last decade I have read.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "rational-optimist",
+        "quote": "The most brilliant and enlightening book I've read in years. He has written four of my top 20 books.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "genome-ridley",
+        "quote": "Everything else written by Matt Ridley. Matt is a scientist, optimist, and forward thinker. One of my favorite authors. I’ve read everything of his, and reread everything of his.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "red-queen",
+        "quote": "I’ve read everything of his, and reread everything of his.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "origins-of-virtue",
+        "quote": "I’ve read everything of his, and reread everything of his.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "evolution-of-everything",
+        "quote": "I’ve read everything of his, and reread everything of his.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "bed-of-procrustes",
+        "quote": "This is his collection of ancient wisdom.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "black-swan",
+        "quote": "He is also famous for The Black Swan, Antifragile, and Fooled by Randomness, all of which are worth reading.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "antifragile",
+        "quote": "All of which are worth reading.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "fooled-by-randomness",
+        "quote": "All of which are worth reading.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "six-not-so-easy",
+        "quote": "I would give my kids a copy of Richard Feynman's Six Easy Pieces and Six Not-So-Easy Pieces.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "thing-explainer",
+        "quote": "A great book by Randall Munroe. In this book, he explains very complicated concepts while only using the 1,000 most common words in the English language.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "thinking-physics",
+        "quote": "There’s another great book called Thinking Physics. I open this one all the time.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "lessons-of-history",
+        "quote": "This is a great book I really liked which summarizes some of the larger themes of history, very incisive.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "sovereign-individual",
+        "quote": "This is the best book I've read since Sapiens (far less mainstream, though).",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "poor-charlie",
+        "quote": "This masquerades as a business book, but it's really just Charlie Munger's advice on overcoming oneself to live a successful and virtuous life.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "reality-not-what-it-seems",
+        "quote": "This is the best book I've read in the last year. Physics, poetry, philosophy, and history packaged in a very accessible form.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "seven-brief-lessons",
+        "quote": "I’ve read this one at least twice.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "objective-knowledge",
+        "quote": "The first thing I would do is start meditating, and then I would read Objective Knowledge by Karl Popper.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "evolution-of-cooperation",
+        "quote": "For game theory, in addition to playing strategy games, you may want to try The Evolution of Cooperation by Robert Axelrod.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "book-of-life",
+        "quote": "Probably the best book is The Book of Life. I'll give my kids a copy.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "total-freedom",
+        "quote": "I like this for someone who’s more advanced. A rationalist’s guide to the perils of the human mind. The “spiritual” book I keep returning to.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "siddhartha",
+        "quote": "I love this as a classic book on philosophy, a good introduction for someone starting out. I’ve given out more copies of this book than any other.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "meditations",
+        "quote": "Marcus Aurelius was absolutely life changing for me. It's the personal diary of the Emperor of Rome.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "tao-of-seneca",
+        "quote": "My most listened-to audiobook. The most important audiobook I've ever heard.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "allegory-of-the-cave",
+        "quote": "The next book I would read, if I didn't read it already, is Plato's Allegory of the Cave.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "how-to-change-your-mind",
+        "quote": "I think it is a brilliant book everybody should read.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "doors-of-perception",
+        "quote": "Two great books, kind of give you an idea of what you could be facing.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "psychedelic-explorers",
+        "quote": "They complement James Fadiman's book very well.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "know-yourself",
+        "quote": "This is the best book on spirituality I've ever read by far.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "book-taboo",
+        "quote": "The Book: The taboo against knowing who you are. That's a great book.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "way-of-zen",
+        "quote": "The Way of Zen is just awesome. It's a joy to read that book.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "striking-thoughts",
+        "quote": "Bruce Lee wrote some great philosophy and Striking Thoughts is a good summary of some of his philosophy.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "the-prophet",
+        "quote": "I recommend The Prophet to anybody, whether you’re religious or not. I think it’s a beautiful book, and it’s worth reading.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "ficciones",
+        "quote": "His short story collection Ficciones, or Labyrinths, is amazing.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "stories-of-your-life",
+        "quote": "My current favorite short story: probably “Understand” by Ted Chiang. It’s in a collection called Stories of Your Life and Others.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "exhalation",
+        "quote": "This contemplates the marvel of thermodynamics from the best sci-fi short story writer of our age.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "lifecycle-software-objects",
+        "quote": "Another masterpiece of sci-fi by Ted Chiang.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "snow-crash",
+        "quote": "Snow Crash is an amazing, amazing book. There’s nothing quite similar to Snow Crash. Snow Crash is in a league of its own.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "the-last-question",
+        "quote": "I quote The Last Question all of the time. I loved it as a kid.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "book-of-secrets",
+        "quote": "If you want to run through a bunch of them, you can pick up a book called The Book of Secrets by Osho.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      },
+      {
+        "bookId": "jed-theory",
+        "quote": "Everything by Jed McKenna. Jed spits raw truth. His style may be off-putting but the dedication to truth is unparalleled.",
+        "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+      }
+    ]
+  },
+  {
+    "id": "bill-gates",
+    "name": "Bill Gates",
+    "role": "Cofundador de Microsoft",
+    "bio": "Cofundador de Microsoft y copresidente de la Fundación Gates. Desde hace años publica en Gates Notes reseñas de lo que recomienda a familia y amigos.",
+    "initials": "BG",
+    "hue": 205,
+    "recommendations": [
+      {
+        "bookId": "stranger-in-a-strange-land",
+        "quote": "Of all the sci-fi I read as a teenager, Stranger in a Strange Land is my favorite.",
+        "sourceUrl": "https://www.gatesnotes.com/stranger-in-a-strange-land",
+        "sourceLabel": "Reseña de Bill Gates en Gates Notes (21 de noviembre de 2022)."
+      },
+      {
+        "bookId": "surrender",
+        "quote": "Even if you’re not [a U2 fan], it’s a super fun read about how a boy from the suburbs of Dublin grew up to become a world-famous rock star and philanthropist.",
+        "sourceUrl": "https://www.gatesnotes.com/holiday-books-2022",
+        "sourceLabel": "Lista de cinco libros favoritos de todos los tiempos, Gates Notes (2022)."
+      },
+      {
+        "bookId": "team-of-rivals",
+        "quote": "I can’t read enough about Abraham Lincoln, and this is one of the best books on the subject.",
+        "sourceUrl": "https://www.gatesnotes.com/holiday-books-2022",
+        "sourceLabel": "Lista de cinco libros favoritos de todos los tiempos, Gates Notes (2022)."
+      },
+      {
+        "bookId": "inner-game-of-tennis",
+        "quote": "This book from 1974 is a must-read for anyone who plays tennis, but I think even people who have never played will get something out of it.",
+        "sourceUrl": "https://www.gatesnotes.com/holiday-books-2022",
+        "sourceLabel": "Lista de cinco libros favoritos de todos los tiempos, Gates Notes (2022)."
+      },
+      {
+        "bookId": "mendeleyevs-dream",
+        "quote": "It’s a fascinating look at how science develops and how human curiosity has evolved over the millennia.",
+        "sourceUrl": "https://www.gatesnotes.com/holiday-books-2022",
+        "sourceLabel": "Lista de cinco libros favoritos de todos los tiempos, Gates Notes (2022)."
+      }
+    ]
+  },
+  {
+    "id": "elon-musk",
+    "name": "Elon Musk",
+    "role": "Empresario",
+    "bio": "Al frente de Tesla y SpaceX, entre otras compañías. Ha contado en entrevistas que aprendió a hacer cohetes leyendo, y ha citado con nombre los libros que le sirvieron.",
+    "initials": "EM",
+    "hue": 8,
+    "recommendations": [
+      {
+        "bookId": "foundation",
+        "quote": "In terms of sci-fi books, I think Isaac Asimov is really great. I like the Foundation series, probably one of the all-time best.",
+        "sourceUrl": "https://fs.blog/elon-musk-book-recommendations/",
+        "sourceLabel": "Citas de Elon Musk reunidas por Farnam Street."
+      },
+      {
+        "bookId": "moon-harsh-mistress",
+        "quote": "Robert Heinlein, obviously. I like The Moon Is a Harsh Mistress and I like Stranger in a Strange Land, although it kind of goes off the rails at the end.",
+        "sourceUrl": "https://fs.blog/elon-musk-book-recommendations/",
+        "sourceLabel": "Citas de Elon Musk reunidas por Farnam Street."
+      },
+      {
+        "bookId": "stranger-in-a-strange-land",
+        "quote": "I like Stranger in a Strange Land, although it kind of goes off the rails at the end.",
+        "sourceUrl": "https://fs.blog/elon-musk-book-recommendations/",
+        "sourceLabel": "Citas de Elon Musk reunidas por Farnam Street."
+      },
+      {
+        "bookId": "hitchhikers",
+        "quote": "I read Hitchhikers Guide to the Galaxy which is quite positive I think and it highlighted an important point which is that a lot of times the question is harder than the answer.",
+        "sourceUrl": "https://fs.blog/elon-musk-book-recommendations/",
+        "sourceLabel": "Entrevista de Elon Musk con Alison van Diggelen, citada por Farnam Street."
+      },
+      {
+        "bookId": "structures",
+        "quote": "There’s a good book on structural design called Structures: Or Why Things Don’t Fall Down. It is really, really good if you want a primer on structural design.",
+        "sourceUrl": "https://fs.blog/elon-musk-book-recommendations/",
+        "sourceLabel": "Citas de Elon Musk reunidas por Farnam Street."
+      },
+      {
+        "bookId": "ignition",
+        "quote": "There is a good book on rocket stuff called Ignition! by John Clark that’s a really fun one.",
+        "sourceUrl": "https://fs.blog/elon-musk-book-recommendations/",
+        "sourceLabel": "Citas de Elon Musk reunidas por Farnam Street."
+      },
+      {
+        "bookId": "zero-to-one",
+        "quote": null,
+        "sourceUrl": "https://fs.blog/elon-musk-book-recommendations/",
+        "sourceLabel": "Farnam Street recoge que Musk recomienda Zero to One, de su antiguo colega Peter Thiel."
+      },
+      {
+        "bookId": "superintelligence",
+        "quote": null,
+        "sourceUrl": "https://fs.blog/elon-musk-book-recommendations/",
+        "sourceLabel": "Farnam Street recoge el tuit de Musk sobre Superintelligence, donde advertía de que la IA podía ser «potentially more dangerous than nukes»."
+      },
+      {
+        "bookId": "franklin-isaacson",
+        "quote": null,
+        "sourceUrl": "https://fs.blog/elon-musk-book-recommendations/",
+        "sourceLabel": "Farnam Street recoge que Musk recomienda la biografía de Benjamin Franklin escrita por Walter Isaacson."
+      }
+    ]
+  },
+  {
+    "id": "warren-buffett",
+    "name": "Warren Buffett",
+    "role": "Inversor",
+    "bio": "Presidente de Berkshire Hathaway. En las juntas de accionistas ha repetido, con el libro en la mano metafórica, qué hay que leer antes de comprar una acción.",
+    "initials": "WB",
+    "hue": 142,
+    "recommendations": [
+      {
+        "bookId": "intelligent-investor",
+        "quote": "All of the important ideas in investing … are in that book.",
+        "sourceUrl": "https://buffett.cnbc.com/2018/04/20/the-berkshire-hathaway-reading-list.html",
+        "sourceLabel": "Archivo de CNBC sobre las juntas de Berkshire: Buffett lo recomienda «first and foremost» (junta de 1996)."
+      },
+      {
+        "bookId": "essays-buffett",
+        "quote": "We’ve said exactly what we do.",
+        "sourceUrl": "https://buffett.cnbc.com/2018/04/20/the-berkshire-hathaway-reading-list.html",
+        "sourceLabel": "Junta de Berkshire de 2000, archivo de CNBC: Buffett llama a este libro el más representativo de su manera de invertir."
+      },
+      {
+        "bookId": "common-stocks",
+        "quote": "Those two books were terrific books.",
+        "sourceUrl": "https://buffett.cnbc.com/2018/04/20/the-berkshire-hathaway-reading-list.html",
+        "sourceLabel": "Junta de Berkshire de 2004, archivo de CNBC: Buffett recomienda los libros de Phil Fisher, entre ellos Common Stocks and Uncommon Profits."
+      }
+    ]
+  },
+  {
+    "id": "charlie-munger",
+    "name": "Charlie Munger",
+    "role": "Inversor",
+    "bio": "Durante décadas fue vicepresidente de Berkshire Hathaway y el interlocutor de Buffett en las juntas. Recomendaba libros del mismo modo que repartía modelos mentales: en voz alta y sin suavizar.",
+    "initials": "CM",
+    "hue": 168,
+    "recommendations": [
+      {
+        "bookId": "influence",
+        "quote": "If you have half as much sense as I think you do, you will immediately order copies for all of your children and several of your friends. You will never make a better investment.",
+        "sourceUrl": "https://jamesclear.com/great-speeches/psychology-of-human-misjudgment-by-charlie-munger",
+        "sourceLabel": "Discurso de Charlie Munger en Harvard (1995), «The Psychology of Human Misjudgment», transcripción de James Clear."
+      },
+      {
+        "bookId": "guns-germs-steel",
+        "quote": "It’s the best work of its kind I have ever read.",
+        "sourceUrl": "https://buffett.cnbc.com/2018/04/20/the-berkshire-hathaway-reading-list.html",
+        "sourceLabel": "Junta de Berkshire de 1998, archivo de CNBC: Munger recomienda Armas, gérmenes y acero."
+      }
+    ]
+  },
+  {
+    "id": "jeff-bezos",
+    "name": "Jeff Bezos",
+    "role": "Fundador de Amazon",
+    "bio": "Fundó Amazon en 1994. En entrevistas de los primeros años de la empresa contestó, sin lista preparada, cuáles eran sus novelas.",
+    "initials": "JB",
+    "hue": 32,
+    "recommendations": [
+      {
+        "bookId": "remains-of-the-day",
+        "quote": "My wife got me to read Remains of the Day and I liked that a lot.",
+        "sourceUrl": "https://eriklundegaard.com/item/from-the-archives-my-1996-interview-with-jeff-bezos---part-ii",
+        "sourceLabel": "Entrevista de Jeff Bezos con Erik Lundegaard, octubre de 1996 (publicada en The Seattle Times)."
+      },
+      {
+        "bookId": "dune",
+        "quote": "It used to be Dune. I’m sort of a techno-geek, propeller-head, science-fiction type.",
+        "sourceUrl": "https://eriklundegaard.com/item/from-the-archives-my-1996-interview-with-jeff-bezos---part-ii",
+        "sourceLabel": "Entrevista de Jeff Bezos con Erik Lundegaard, octubre de 1996."
+      }
+    ]
+  },
+  {
+    "id": "steve-jobs",
+    "name": "Steve Jobs",
+    "role": "Cofundador de Apple",
+    "bio": "Cofundador de Apple y de Pixar. Lo que leía de joven —espiritualidad, Shakespeare, dieta— quedó contado por él en la biografía de Walter Isaacson.",
+    "initials": "SJ",
+    "hue": 220,
+    "recommendations": [
+      {
+        "bookId": "be-here-now",
+        "quote": "It was profound. It transformed me and many of my friends.",
+        "sourceUrl": "https://www.huffpost.com/entry/the-steve-jobs-reading-list-the-books_n_1024021",
+        "sourceLabel": "Steve Jobs a Walter Isaacson, citado por HuffPost a partir de la biografía (2011)."
+      },
+      {
+        "bookId": "autobiography-yogi",
+        "quote": null,
+        "sourceUrl": "https://www.huffpost.com/entry/the-steve-jobs-reading-list-the-books_n_1024021",
+        "sourceLabel": "HuffPost, citando a Isaacson: era el único libro en su iPad 2 y lo releía una vez al año desde la adolescencia."
+      },
+      {
+        "bookId": "king-lear",
+        "quote": "I loved King Lear.",
+        "sourceUrl": "https://www.huffpost.com/entry/the-steve-jobs-reading-list-the-books_n_1024021",
+        "sourceLabel": "Steve Jobs, recordando sus lecturas de instituto, citado por HuffPost vía Isaacson."
+      },
+      {
+        "bookId": "diet-small-planet",
+        "quote": "That’s when I swore off meat pretty much for good.",
+        "sourceUrl": "https://www.huffpost.com/entry/the-steve-jobs-reading-list-the-books_n_1024021",
+        "sourceLabel": "Steve Jobs a Isaacson, citado por HuffPost, sobre Diet for a Small Planet."
+      },
+      {
+        "bookId": "moby-dick",
+        "quote": null,
+        "sourceUrl": "https://www.huffpost.com/entry/the-steve-jobs-reading-list-the-books_n_1024021",
+        "sourceLabel": "HuffPost, citando a Isaacson: Moby-Dick estaba entre las lecturas favoritas de Jobs en el instituto."
+      }
+    ]
+  },
+  {
+    "id": "mark-zuckerberg",
+    "name": "Mark Zuckerberg",
+    "role": "Cofundador de Meta",
+    "bio": "Cofundador y consejero delegado de Meta. En 2015 dedicó el año a leer un libro cada dos semanas y a explicar en Facebook por qué lo elegía.",
+    "initials": "MZ",
+    "hue": 214,
+    "recommendations": [
+      {
+        "bookId": "sapiens",
+        "quote": "Following the Muqaddimah, which was a history from the perspective of an intellectual in the 1300s, Sapiens is a contemporary exploration of many similar questions.",
+        "sourceUrl": "https://www.businessinsider.com/mark-zuckerberg-book-recommendations-2015-4",
+        "sourceLabel": "Publicación de Mark Zuckerberg en A Year of Books (2015), citada por Business Insider."
+      },
+      {
+        "bookId": "muqaddimah",
+        "quote": "While much of what was believed then is now disproven after 700 more years of progress, it’s still very interesting to see what was understood at this time and the overall worldview when it’s all considered together.",
+        "sourceUrl": "https://www.businessinsider.com/mark-zuckerberg-book-recommendations-2015-4",
+        "sourceLabel": "Publicación de Mark Zuckerberg en A Year of Books (2015), citada por Business Insider."
+      },
+      {
+        "bookId": "new-jim-crow",
+        "quote": "I’ve been interested in learning about criminal justice reform for a while, and this book was highly recommended by several people I trust.",
+        "sourceUrl": "https://www.businessinsider.com/mark-zuckerberg-book-recommendations-2015-4",
+        "sourceLabel": "Publicación de Mark Zuckerberg en A Year of Books (2015), citada por Business Insider."
+      },
+      {
+        "bookId": "end-of-power",
+        "quote": "The trend towards giving people more power is one I believe in deeply.",
+        "sourceUrl": "https://www.businessinsider.com/mark-zuckerberg-book-recommendations-2015-4",
+        "sourceLabel": "Publicación de Mark Zuckerberg en A Year of Books (2015), citada por Business Insider."
+      },
+      {
+        "bookId": "creativity-inc",
+        "quote": "I love reading first-hand accounts about how people build great companies like Pixar and nurture innovation and creativity.",
+        "sourceUrl": "https://www.businessinsider.com/mark-zuckerberg-book-recommendations-2015-4",
+        "sourceLabel": "Publicación de Mark Zuckerberg en A Year of Books (2015), citada por Business Insider."
+      },
+      {
+        "bookId": "on-immunity",
+        "quote": "The science is completely clear: vaccinations work and are important for the health of everyone in our community.",
+        "sourceUrl": "https://www.businessinsider.com/mark-zuckerberg-book-recommendations-2015-4",
+        "sourceLabel": "Publicación de Mark Zuckerberg en A Year of Books (2015), citada por Business Insider."
+      },
+      {
+        "bookId": "gang-leader",
+        "quote": "The more we all have a voice to share our perspectives, the more empathy we have for each other and the more we respect each other’s rights.",
+        "sourceUrl": "https://www.businessinsider.com/mark-zuckerberg-book-recommendations-2015-4",
+        "sourceLabel": "Publicación de Mark Zuckerberg en A Year of Books (2015), citada por Business Insider."
+      },
+      {
+        "bookId": "dealing-with-china",
+        "quote": "Over the last 35 years, China has experienced one of the greatest economic and social transformations in human history.",
+        "sourceUrl": "https://www.businessinsider.com/mark-zuckerberg-book-recommendations-2015-4",
+        "sourceLabel": "Publicación de Mark Zuckerberg en A Year of Books (2015), citada por Business Insider."
+      }
+    ]
+  },
+  {
+    "id": "tim-ferriss",
+    "name": "Tim Ferriss",
+    "role": "Autor y presentador",
+    "bio": "Autor de La semana laboral de 4 horas y presentador de The Tim Ferriss Show. Lleva años publicando en su blog las novelas y los estoicos que regala.",
+    "initials": "TF",
+    "hue": 18,
+    "recommendations": [
+      {
+        "bookId": "zorba",
+        "quote": "I have recommended this outstanding book before. […] Zorba reminds us how to live fully.",
+        "sourceUrl": "https://tim.blog/2012/02/24/the-top-10-fiction-books-for-non-fiction-addicts/",
+        "sourceLabel": "Tim Ferriss, «The Top 10 Fiction Books for Non-Fiction Addicts», tim.blog (2012)."
+      },
+      {
+        "bookId": "musashi",
+        "quote": "I never expected to finish it, and I tore through it in less than two weeks.",
+        "sourceUrl": "https://tim.blog/2012/02/24/the-top-10-fiction-books-for-non-fiction-addicts/",
+        "sourceLabel": "Tim Ferriss, «The Top 10 Fiction Books for Non-Fiction Addicts», tim.blog (2012)."
+      },
+      {
+        "bookId": "stranger-in-a-strange-land",
+        "quote": "Ever feel like you don’t quite fit in? Don’t want to follow society’s silly rules? Then you can probably relate to human-born and Martian-raised Valentine Michael Smith.",
+        "sourceUrl": "https://tim.blog/2012/02/24/the-top-10-fiction-books-for-non-fiction-addicts/",
+        "sourceLabel": "Tim Ferriss, «The Top 10 Fiction Books for Non-Fiction Addicts», tim.blog (2012)."
+      },
+      {
+        "bookId": "enders-game",
+        "quote": "If people ask me, for instance, “Which books should I read on leadership?”, I might reply: “Dune and Ender’s Game.”",
+        "sourceUrl": "https://tim.blog/2012/02/24/the-top-10-fiction-books-for-non-fiction-addicts/",
+        "sourceLabel": "Tim Ferriss, «The Top 10 Fiction Books for Non-Fiction Addicts», tim.blog (2012)."
+      },
+      {
+        "bookId": "dune",
+        "quote": "Dune presents, despite my synopsis, perhaps the most incredibly detailed and oddly believable fictional landscape I’ve ever encountered.",
+        "sourceUrl": "https://tim.blog/2012/02/24/the-top-10-fiction-books-for-non-fiction-addicts/",
+        "sourceLabel": "Tim Ferriss, «The Top 10 Fiction Books for Non-Fiction Addicts», tim.blog (2012)."
+      },
+      {
+        "bookId": "hitchhikers",
+        "quote": "If you need humor to make the jump to fiction, this might be your gateway drug.",
+        "sourceUrl": "https://tim.blog/2012/02/24/the-top-10-fiction-books-for-non-fiction-addicts/",
+        "sourceLabel": "Tim Ferriss, «The Top 10 Fiction Books for Non-Fiction Addicts», tim.blog (2012)."
+      },
+      {
+        "bookId": "fahrenheit-451",
+        "quote": "This classic work on state censorship remains as relevant in today’s world of digital delights as it was when published in the black-and-white world of 1953.",
+        "sourceUrl": "https://tim.blog/2012/02/24/the-top-10-fiction-books-for-non-fiction-addicts/",
+        "sourceLabel": "Tim Ferriss, «The Top 10 Fiction Books for Non-Fiction Addicts», tim.blog (2012)."
+      },
+      {
+        "bookId": "letters-seneca",
+        "quote": "Zorba the Greek and Seneca: Letters from a Stoic. These are two of the most readable books of practical philosophies I’ve ever had the fortune to encounter.",
+        "sourceUrl": "https://tim.blog/2008/12/31/things-ive-learned-and-loved-in-2008/",
+        "sourceLabel": "Tim Ferriss, «Things I’ve Learned and Loved in 2008», tim.blog."
+      }
+    ]
+  },
+  {
+    "id": "barack-obama",
+    "name": "Barack Obama",
+    "role": "44.º presidente de Estados Unidos",
+    "bio": "Publica cada verano, en la Fundación Obama y en Medium, los libros que ha leído y quiere pasar a otros. Las frases de 2025 son suyas.",
+    "initials": "BO",
+    "hue": 210,
+    "recommendations": [
+      {
+        "bookId": "mark-twain",
+        "quote": "A comprehensive biography of one of the most important writers and social commentators in American history.",
+        "sourceUrl": "https://www.obama.org/stories/president-obamas-favorite-books-summer-2025/",
+        "sourceLabel": "Lista de verano de 2025, Fundación Obama."
+      },
+      {
+        "bookId": "abundance",
+        "quote": "A must-read for progressives who want a blueprint for reforming government so it can deliver for working people.",
+        "sourceUrl": "https://www.obama.org/stories/president-obamas-favorite-books-summer-2025/",
+        "sourceLabel": "Lista de verano de 2025, Fundación Obama."
+      },
+      {
+        "bookId": "king-of-ashes",
+        "quote": "One of my favorite crime fiction writers delivers in this story of family, ambition and corruption in a racially charged and violent South.",
+        "sourceUrl": "https://www.obama.org/stories/president-obamas-favorite-books-summer-2025/",
+        "sourceLabel": "Lista de verano de 2025, Fundación Obama."
+      },
+      {
+        "bookId": "marriage-at-sea",
+        "quote": "Amazing true story of a couple surviving crisis in the open seas.",
+        "sourceUrl": "https://www.obama.org/stories/president-obamas-favorite-books-summer-2025/",
+        "sourceLabel": "Lista de verano de 2025, Fundación Obama."
+      },
+      {
+        "bookId": "who-is-government",
+        "quote": "A timely reminder of the quiet dedication and skill of the people who work every day to make this country work.",
+        "sourceUrl": "https://www.obama.org/stories/president-obamas-favorite-books-summer-2025/",
+        "sourceLabel": "Lista de verano de 2025, Fundación Obama."
+      },
+      {
+        "bookId": "sirens-call",
+        "quote": "A useful primer on how social media and the attention economy have warped our democracy and reshaped our lives.",
+        "sourceUrl": "https://www.obama.org/stories/president-obamas-favorite-books-summer-2025/",
+        "sourceLabel": "Lista de verano de 2025, Fundación Obama."
+      },
+      {
+        "bookId": "book-of-records",
+        "quote": "A beautiful fable about migration, memory, and the struggle to recognize our common humanity.",
+        "sourceUrl": "https://www.obama.org/stories/president-obamas-favorite-books-summer-2025/",
+        "sourceLabel": "Lista de verano de 2025, Fundación Obama."
+      },
+      {
+        "bookId": "empire-of-pain",
+        "quote": null,
+        "sourceUrl": "https://barackobama.medium.com/my-summer-2021-lists-f522aac3b97c",
+        "sourceLabel": "Lista de verano de 2021 publicada por Barack Obama en Medium: libros que había leído y esperaba que otros disfrutaran."
+      },
+      {
+        "bookId": "project-hail-mary",
+        "quote": null,
+        "sourceUrl": "https://barackobama.medium.com/my-summer-2021-lists-f522aac3b97c",
+        "sourceLabel": "Lista de verano de 2021 publicada por Barack Obama en Medium."
+      },
+      {
+        "bookId": "klara-and-the-sun",
+        "quote": null,
+        "sourceUrl": "https://barackobama.medium.com/my-summer-2021-lists-f522aac3b97c",
+        "sourceLabel": "Lista de verano de 2021 publicada por Barack Obama en Medium."
+      }
+    ]
+  },
+  {
+    "id": "ryan-holiday",
+    "name": "Ryan Holiday",
+    "role": "Escritor",
+    "bio": "Autor de libros sobre estoicismo y librero en The Painted Porch. Mantiene en su web una lista de los libros sobre los que, dice, se puede apoyar una vida.",
+    "initials": "RH",
+    "hue": 350,
+    "recommendations": [
+      {
+        "bookId": "meditations",
+        "quote": "To me, this is not only one of greatest books ever written but perhaps the only book of its kind.",
+        "sourceUrl": "https://ryanholiday.net/the-reading-list/",
+        "sourceLabel": "Ryan Holiday, «Books To Base Your Life On», ryanholiday.net."
+      },
+      {
+        "bookId": "letters-seneca",
+        "quote": "After Marcus Aurelius, this is one of my favorite books. […] Seneca’s letters are the best place to start.",
+        "sourceUrl": "https://ryanholiday.net/the-reading-list/",
+        "sourceLabel": "Ryan Holiday, «Books To Base Your Life On», ryanholiday.net."
+      },
+      {
+        "bookId": "shortness-of-life",
+        "quote": "The essays in On the Shortness of Life are excellent as well.",
+        "sourceUrl": "https://ryanholiday.net/the-reading-list/",
+        "sourceLabel": "Ryan Holiday, «Books To Base Your Life On», ryanholiday.net."
+      },
+      {
+        "bookId": "mans-search",
+        "quote": "Frankl is one of the most profound modern thinkers on meaning and purpose.",
+        "sourceUrl": "https://ryanholiday.net/the-reading-list/",
+        "sourceLabel": "Ryan Holiday, «Books To Base Your Life On», ryanholiday.net."
+      },
+      {
+        "bookId": "score-takes-care",
+        "quote": "Even if you’ve never watched a down of football, you’ll get something out of this book.",
+        "sourceUrl": "https://ryanholiday.net/the-reading-list/",
+        "sourceLabel": "Ryan Holiday, «Books To Base Your Life On», ryanholiday.net."
+      },
+      {
+        "bookId": "endurance-lansing",
+        "quote": "This book (and his life) were living proof of his family motto: “Fortitudine vincimus” (By endurance we conquer).",
+        "sourceUrl": "https://ryanholiday.net/the-reading-list/",
+        "sourceLabel": "Ryan Holiday, «Books To Base Your Life On», ryanholiday.net."
+      },
+      {
+        "bookId": "black-swan",
+        "quote": "You can draw a pretty straight line from Seneca […] to the modern day writings of Nassim Nicholas Taleb (read: The Black Swan, Fooled By Randomness and The Bed of Procrustes).",
+        "sourceUrl": "https://ryanholiday.net/the-reading-list/",
+        "sourceLabel": "Ryan Holiday, «Books To Base Your Life On», ryanholiday.net."
+      },
+      {
+        "bookId": "fooled-by-randomness",
+        "quote": "Read: The Black Swan, Fooled By Randomness and The Bed of Procrustes.",
+        "sourceUrl": "https://ryanholiday.net/the-reading-list/",
+        "sourceLabel": "Ryan Holiday, «Books To Base Your Life On», ryanholiday.net."
+      },
+      {
+        "bookId": "bed-of-procrustes",
+        "quote": "Read: The Black Swan, Fooled By Randomness and The Bed of Procrustes.",
+        "sourceUrl": "https://ryanholiday.net/the-reading-list/",
+        "sourceLabel": "Ryan Holiday, «Books To Base Your Life On», ryanholiday.net."
+      },
+      {
+        "bookId": "antifragile",
+        "quote": null,
+        "sourceUrl": "https://tim.blog/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+        "sourceLabel": "Libros que señaló como favoritos al responder en The Tim Ferriss Show qué libro regala más; recopilación en el blog de Ferriss (2014)."
+      },
+      {
+        "bookId": "vasari-lives",
+        "quote": "What I like about this book is that the profiles are not about statesmen or generals but artists.",
+        "sourceUrl": "https://ryanholiday.net/the-reading-list/",
+        "sourceLabel": "Ryan Holiday, «Books To Base Your Life On», ryanholiday.net."
+      },
+      {
+        "bookId": "forty-eight-laws",
+        "quote": "You MUST read his books. His work on power and strategy are critical for anyone trying to accomplish anything.",
+        "sourceUrl": "https://ryanholiday.net/the-reading-list/",
+        "sourceLabel": "Ryan Holiday, «Books To Base Your Life On», ryanholiday.net."
+      },
+      {
+        "bookId": "what-makes-sammy",
+        "quote": "What Makes Sammy Run? is Ari Gold before Ari Gold existed.",
+        "sourceUrl": "https://ryanholiday.net/the-reading-list/",
+        "sourceLabel": "Ryan Holiday, «Books To Base Your Life On», ryanholiday.net."
+      },
+      {
+        "bookId": "franklin-isaacson",
+        "quote": null,
+        "sourceUrl": "https://tim.blog/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+        "sourceLabel": "Libros que señaló como favoritos al responder en The Tim Ferriss Show qué libro regala más; recopilación en el blog de Ferriss (2014)."
+      }
+    ]
+  },
+  {
+    "id": "patrick-collison",
+    "name": "Patrick Collison",
+    "role": "Cofundador de Stripe",
+    "bio": "Cofundador y consejero delegado de Stripe. En su web mantiene una estantería de los libros que posee y marca en negrita los que considera particularmente buenos.",
+    "initials": "PC",
+    "hue": 262,
+    "recommendations": [
+      {
+        "bookId": "beginning-of-infinity",
+        "quote": null,
+        "sourceUrl": "https://patrickcollison.com/bookshelf",
+        "sourceLabel": "Estantería de Patrick Collison: lo marcó entre los libros particularmente buenos."
+      },
+      {
+        "bookId": "poor-charlie",
+        "quote": null,
+        "sourceUrl": "https://patrickcollison.com/bookshelf",
+        "sourceLabel": "Estantería de Patrick Collison: lo marcó entre los libros particularmente buenos."
+      },
+      {
+        "bookId": "rise-fall-growth",
+        "quote": null,
+        "sourceUrl": "https://patrickcollison.com/bookshelf",
+        "sourceLabel": "Estantería de Patrick Collison: lo marcó entre los libros particularmente buenos."
+      },
+      {
+        "bookId": "dream-machine",
+        "quote": null,
+        "sourceUrl": "https://patrickcollison.com/bookshelf",
+        "sourceLabel": "Estantería de Patrick Collison: lo marcó entre los libros particularmente buenos."
+      },
+      {
+        "bookId": "hamming",
+        "quote": null,
+        "sourceUrl": "https://patrickcollison.com/bookshelf",
+        "sourceLabel": "Estantería de Patrick Collison: lo marcó entre los libros particularmente buenos."
+      },
+      {
+        "bookId": "democracy-in-america",
+        "quote": null,
+        "sourceUrl": "https://patrickcollison.com/bookshelf",
+        "sourceLabel": "Estantería de Patrick Collison: lo marcó entre los libros particularmente buenos."
+      },
+      {
+        "bookId": "age-of-ambition",
+        "quote": null,
+        "sourceUrl": "https://patrickcollison.com/bookshelf",
+        "sourceLabel": "Estantería de Patrick Collison: lo marcó entre los libros particularmente buenos."
+      },
+      {
+        "bookId": "pattern-language",
+        "quote": null,
+        "sourceUrl": "https://patrickcollison.com/bookshelf",
+        "sourceLabel": "Estantería de Patrick Collison: lo marcó entre los libros particularmente buenos."
+      },
+      {
+        "bookId": "mindstorms",
+        "quote": null,
+        "sourceUrl": "https://patrickcollison.com/bookshelf",
+        "sourceLabel": "Estantería de Patrick Collison: lo marcó entre los libros particularmente buenos."
+      },
+      {
+        "bookId": "fermi-paradox",
+        "quote": null,
+        "sourceUrl": "https://patrickcollison.com/bookshelf",
+        "sourceLabel": "Estantería de Patrick Collison: lo marcó entre los libros particularmente buenos."
+      },
+      {
+        "bookId": "hard-landing",
+        "quote": null,
+        "sourceUrl": "https://patrickcollison.com/bookshelf",
+        "sourceLabel": "Estantería de Patrick Collison: lo marcó entre los libros particularmente buenos."
+      },
+      {
+        "bookId": "metamagical-themas",
+        "quote": null,
+        "sourceUrl": "https://patrickcollison.com/bookshelf",
+        "sourceLabel": "Estantería de Patrick Collison: lo marcó entre los libros particularmente buenos."
+      },
+      {
+        "bookId": "out-of-maos-shadow",
+        "quote": null,
+        "sourceUrl": "https://patrickcollison.com/bookshelf",
+        "sourceLabel": "Estantería de Patrick Collison: lo marcó entre los libros particularmente buenos."
+      }
+    ]
+  },
+  {
+    "id": "marc-andreessen",
+    "name": "Marc Andreessen",
+    "role": "Inversor",
+    "bio": "Cofundador de Netscape y de Andreessen Horowitz. En abril de 2020 acompañó su ensayo «It’s Time to Build» con un hilo de libros.",
+    "initials": "MA",
+    "hue": 24,
+    "recommendations": [
+      {
+        "bookId": "whole-earth-discipline",
+        "quote": "On why even environmentalists should be pro building, pro cities, pro nuclear, and pro genetic engineering.",
+        "sourceUrl": "https://threadreaderapp.com/thread/1251634412334141440.html",
+        "sourceLabel": "Hilo de Marc Andreessen en Twitter, 18 de abril de 2020 (archivo legible en Thread Reader)."
+      },
+      {
+        "bookId": "more-from-less",
+        "quote": "On how modern technological economies can build more outputs with less inputs, and why we need all economies to be modern and technological.",
+        "sourceUrl": "https://threadreaderapp.com/thread/1251634412334141440.html",
+        "sourceLabel": "Hilo de Marc Andreessen en Twitter, 18 de abril de 2020."
+      },
+      {
+        "bookId": "triumph-of-the-city",
+        "quote": "On the central role cities play in our world and why it’s so important for us to build them — more, bigger, better.",
+        "sourceUrl": "https://threadreaderapp.com/thread/1251634412334141440.html",
+        "sourceLabel": "Hilo de Marc Andreessen en Twitter, 18 de abril de 2020."
+      },
+      {
+        "bookId": "edison-morris",
+        "quote": "On perhaps the greatest American builder of all, the builder who brought electricity to us all, Thomas Edison.",
+        "sourceUrl": "https://threadreaderapp.com/thread/1251634412334141440.html",
+        "sourceLabel": "Hilo de Marc Andreessen en Twitter, 18 de abril de 2020."
+      },
+      {
+        "bookId": "the-tycoons",
+        "quote": "On how four great builders of the 19th century built the world we live in today.",
+        "sourceUrl": "https://threadreaderapp.com/thread/1251634412334141440.html",
+        "sourceLabel": "Hilo de Marc Andreessen en Twitter, 18 de abril de 2020."
+      },
+      {
+        "bookId": "golden-gates",
+        "quote": "On why we can’t build in great American cities like San Francisco today and what we need to do about it.",
+        "sourceUrl": "https://threadreaderapp.com/thread/1251634412334141440.html",
+        "sourceLabel": "Hilo de Marc Andreessen en Twitter, 18 de abril de 2020."
+      }
+    ]
+  },
+  {
+    "id": "peter-thiel",
+    "name": "Peter Thiel",
+    "role": "Inversor",
+    "bio": "Cofundador de PayPal y de Palantir, e inversor inicial en Facebook. Ha señalado en entrevistas el libro que más le ha influido y, en The Week, seis títulos sobre el futuro.",
+    "initials": "PT",
+    "hue": 268,
+    "recommendations": [
+      {
+        "bookId": "things-hidden",
+        "quote": "Girard gives a sweeping view of the whole human experience on this planet — something captured in the title of his masterwork, Things Hidden Since the Foundation of the World.",
+        "sourceUrl": "https://tim.blog/2014/09/09/peter-thiel/",
+        "sourceLabel": "Entrevista de Peter Thiel con Tim Ferriss (2014): el libro que más ha regalado."
+      },
+      {
+        "bookId": "sovereign-individual",
+        "quote": null,
+        "sourceUrl": "https://theweek.com/articles/443683/peter-thiels-6-favorite-books-that-predict-future",
+        "sourceLabel": "Los seis libros favoritos de Peter Thiel sobre el futuro, publicados por The Week."
+      },
+      {
+        "bookId": "black-swan",
+        "quote": null,
+        "sourceUrl": "https://theweek.com/articles/443683/peter-thiels-6-favorite-books-that-predict-future",
+        "sourceLabel": "Los seis libros favoritos de Peter Thiel sobre el futuro, publicados por The Week."
+      },
+      {
+        "bookId": "diamond-age",
+        "quote": null,
+        "sourceUrl": "https://theweek.com/articles/443683/peter-thiels-6-favorite-books-that-predict-future",
+        "sourceLabel": "Los seis libros favoritos de Peter Thiel sobre el futuro, publicados por The Week."
+      },
+      {
+        "bookId": "right-stuff",
+        "quote": null,
+        "sourceUrl": "https://theweek.com/articles/443683/peter-thiels-6-favorite-books-that-predict-future",
+        "sourceLabel": "Los seis libros favoritos de Peter Thiel sobre el futuro, publicados por The Week."
+      },
+      {
+        "bookId": "new-atlantis",
+        "quote": null,
+        "sourceUrl": "https://theweek.com/articles/443683/peter-thiels-6-favorite-books-that-predict-future",
+        "sourceLabel": "Los seis libros favoritos de Peter Thiel sobre el futuro, publicados por The Week."
+      }
+    ]
+  },
+  {
+    "id": "sam-altman",
+    "name": "Sam Altman",
+    "role": "Consejero delegado de OpenAI",
+    "bio": "Consejero delegado de OpenAI y expresidente de Y Combinator. En un AMA de 2015 enseñó a cámara los libros que daría a un fundador joven, y lo comentó al día siguiente en Hacker News.",
+    "initials": "SA",
+    "hue": 199,
+    "recommendations": [
+      {
+        "bookId": "zero-to-one",
+        "quote": null,
+        "sourceUrl": "https://news.ycombinator.com/item?id=10423017",
+        "sourceLabel": "AMA de Twitter de Sam Altman (21 de octubre de 2015), transcrito ese día en Hacker News. Altman intervino en el hilo."
+      },
+      {
+        "bookId": "thinking-fast",
+        "quote": null,
+        "sourceUrl": "https://news.ycombinator.com/item?id=10423017",
+        "sourceLabel": "AMA de Twitter de Sam Altman (21 de octubre de 2015), transcrito ese día en Hacker News."
+      },
+      {
+        "bookId": "score-takes-care",
+        "quote": null,
+        "sourceUrl": "https://news.ycombinator.com/item?id=10423017",
+        "sourceLabel": "AMA de Twitter de Sam Altman (21 de octubre de 2015), transcrito ese día en Hacker News."
+      },
+      {
+        "bookId": "dealers-of-lightning",
+        "quote": null,
+        "sourceUrl": "https://news.ycombinator.com/item?id=10423017",
+        "sourceLabel": "AMA de Twitter de Sam Altman (21 de octubre de 2015), transcrito ese día en Hacker News."
+      },
+      {
+        "bookId": "the-supermen",
+        "quote": "That one’s particularly good.",
+        "sourceUrl": "https://news.ycombinator.com/item?id=10423017",
+        "sourceLabel": "AMA de Twitter de Sam Altman (21 de octubre de 2015). La nota es del transcriptor, que recogió el comentario de Altman al enseñar el libro."
+      },
+      {
+        "bookId": "beak-of-the-finch",
+        "quote": null,
+        "sourceUrl": "https://news.ycombinator.com/item?id=10423017",
+        "sourceLabel": "AMA de Twitter de Sam Altman (21 de octubre de 2015), transcrito ese día en Hacker News."
+      },
+      {
+        "bookId": "art-of-war-middle-ages",
+        "quote": "This is correct—art of war in the Middle Ages.",
+        "sourceUrl": "https://news.ycombinator.com/item?id=10423017",
+        "sourceLabel": "Comentario del propio Sam Altman en el hilo de Hacker News, corrigiendo el título."
+      },
+      {
+        "bookId": "pandaemonium",
+        "quote": "This is an incredible read, and as we sit in the middle of the software revolution it’s worthwhile to see what people thought as the industrial revolution was happening.",
+        "sourceUrl": "https://www.ycombinator.com/blog/ycs-winter-reading-list",
+        "sourceLabel": "Lista de invierno de Y Combinator (2016), con la frase de Sam Altman."
+      }
+    ]
+  },
+  {
+    "id": "paul-graham",
+    "name": "Paul Graham",
+    "role": "Ensayista y cofundador de Y Combinator",
+    "bio": "Ensayista y cofundador de Y Combinator. En sus preguntas frecuentes recomienda pocos libros, y los nombra.",
+    "initials": "PG",
+    "hue": 16,
+    "recommendations": [
+      {
+        "bookId": "soul-new-machine",
+        "quote": "The best source of information about startups is probably not business books, but histories of particular startups and industries. The most famous is Tracy Kidder’s Soul of a New Machine.",
+        "sourceUrl": "https://paulgraham.com/startupfaq.html",
+        "sourceLabel": "Paul Graham, «Startup FAQ», paulgraham.com."
+      },
+      {
+        "bookId": "how-to-win-friends",
+        "quote": "The one book we encourage startup founders to read is Dale Carnegie’s How to Win Friends and Influence People.",
+        "sourceUrl": "https://paulgraham.com/startupfaq.html",
+        "sourceLabel": "Paul Graham, «Startup FAQ», paulgraham.com."
+      },
+      {
+        "bookId": "franklin-autobiography",
+        "quote": "I’d also recommend Franklin’s Autobiography.",
+        "sourceUrl": "https://paulgraham.com/startupfaq.html",
+        "sourceLabel": "Paul Graham, «Startup FAQ», paulgraham.com."
+      },
+      {
+        "bookId": "vasari-lives",
+        "quote": null,
+        "sourceUrl": "https://paulgraham.com/raq.html",
+        "sourceLabel": "Paul Graham, «RAQs»: lo incluye entre los libros de historia que le parecen más estimulantes."
+      },
+      {
+        "bookId": "art-of-war-middle-ages",
+        "quote": null,
+        "sourceUrl": "https://paulgraham.com/raq.html",
+        "sourceLabel": "Paul Graham, «RAQs»: lo incluye entre los libros de historia que le parecen más estimulantes."
+      },
+      {
+        "bookId": "medieval-technology",
+        "quote": null,
+        "sourceUrl": "https://paulgraham.com/raq.html",
+        "sourceLabel": "Paul Graham, «RAQs»: lo incluye entre los libros de historia que le parecen más estimulantes."
+      }
+    ]
+  },
+  {
+    "id": "kevin-kelly",
+    "name": "Kevin Kelly",
+    "role": "Cofundador de Wired",
+    "bio": "Cofundador y primer director ejecutivo de Wired, y autor de libros sobre tecnología y cultura. Estas son las obras que señaló como favoritas en The Tim Ferriss Show.",
+    "initials": "KK",
+    "hue": 186,
+    "recommendations": [
+      {
+        "bookId": "cats-cradle",
+        "quote": null,
+        "sourceUrl": "https://tim.blog/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+        "sourceLabel": "Libros que señaló como favoritos al responder en The Tim Ferriss Show qué libro regala más; recopilación en el blog de Ferriss (2014)."
+      },
+      {
+        "bookId": "psychedelic-explorers",
+        "quote": null,
+        "sourceUrl": "https://tim.blog/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+        "sourceLabel": "Libros que señaló como favoritos al responder en The Tim Ferriss Show qué libro regala más; recopilación en el blog de Ferriss (2014)."
+      },
+      {
+        "bookId": "johnny-bunko",
+        "quote": null,
+        "sourceUrl": "https://tim.blog/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+        "sourceLabel": "Libros que señaló como favoritos al responder en The Tim Ferriss Show qué libro regala más; recopilación en el blog de Ferriss (2014)."
+      },
+      {
+        "bookId": "so-good",
+        "quote": null,
+        "sourceUrl": "https://tim.blog/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+        "sourceLabel": "Libros que señaló como favoritos al responder en The Tim Ferriss Show qué libro regala más; recopilación en el blog de Ferriss (2014)."
+      },
+      {
+        "bookId": "shantaram",
+        "quote": null,
+        "sourceUrl": "https://tim.blog/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+        "sourceLabel": "Libros que señaló como favoritos al responder en The Tim Ferriss Show qué libro regala más; recopilación en el blog de Ferriss (2014)."
+      }
+    ]
+  },
+  {
+    "id": "tony-robbins",
+    "name": "Tony Robbins",
+    "role": "Formador y autor",
+    "bio": "Formador y autor de libros de desarrollo personal. En The Tim Ferriss Show enumeró los libros que considera favoritos y que más ha regalado.",
+    "initials": "TR",
+    "hue": 4,
+    "recommendations": [
+      {
+        "bookId": "as-a-man-thinketh",
+        "quote": null,
+        "sourceUrl": "https://tim.blog/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+        "sourceLabel": "Libros que señaló como favoritos al responder en The Tim Ferriss Show qué libro regala más; recopilación en el blog de Ferriss (2014)."
+      },
+      {
+        "bookId": "mans-search",
+        "quote": null,
+        "sourceUrl": "https://tim.blog/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+        "sourceLabel": "Libros que señaló como favoritos al responder en The Tim Ferriss Show qué libro regala más; recopilación en el blog de Ferriss (2014)."
+      },
+      {
+        "bookId": "fourth-turning",
+        "quote": null,
+        "sourceUrl": "https://tim.blog/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+        "sourceLabel": "Libros que señaló como favoritos al responder en The Tim Ferriss Show qué libro regala más; recopilación en el blog de Ferriss (2014)."
+      },
+      {
+        "bookId": "mindset",
+        "quote": null,
+        "sourceUrl": "https://tim.blog/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+        "sourceLabel": "Libros que señaló como favoritos al responder en The Tim Ferriss Show qué libro regala más; recopilación en el blog de Ferriss (2014)."
+      }
+    ]
+  },
+  {
+    "id": "peter-diamandis",
+    "name": "Peter Diamandis",
+    "role": "Fundador de XPRIZE",
+    "bio": "Fundador de la Fundación XPRIZE y coautor de Abundancia. En The Tim Ferriss Show dejó los libros que señala como favoritos.",
+    "initials": "PD",
+    "hue": 196,
+    "recommendations": [
+      {
+        "bookId": "spirit-st-louis",
+        "quote": null,
+        "sourceUrl": "https://tim.blog/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+        "sourceLabel": "Libros que señaló como favoritos al responder en The Tim Ferriss Show qué libro regala más; recopilación en el blog de Ferriss (2014)."
+      },
+      {
+        "bookId": "atlas-shrugged",
+        "quote": null,
+        "sourceUrl": "https://tim.blog/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+        "sourceLabel": "Libros que señaló como favoritos al responder en The Tim Ferriss Show qué libro regala más; recopilación en el blog de Ferriss (2014)."
+      },
+      {
+        "bookId": "man-who-sold-the-moon",
+        "quote": null,
+        "sourceUrl": "https://tim.blog/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+        "sourceLabel": "Libros que señaló como favoritos al responder en The Tim Ferriss Show qué libro regala más; recopilación en el blog de Ferriss (2014)."
+      },
+      {
+        "bookId": "singularity-kurzweil",
+        "quote": null,
+        "sourceUrl": "https://tim.blog/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+        "sourceLabel": "Libros que señaló como favoritos al responder en The Tim Ferriss Show qué libro regala más; recopilación en el blog de Ferriss (2014)."
+      }
+    ]
+  },
+  {
+    "id": "ed-catmull",
+    "name": "Ed Catmull",
+    "role": "Cofundador de Pixar",
+    "bio": "Cofundador de Pixar y durante años su presidente. Entre los libros que señaló como favoritos hay mito, viaje del héroe y un álbum infantil.",
+    "initials": "EC",
+    "hue": 230,
+    "recommendations": [
+      {
+        "bookId": "hero-thousand-faces",
+        "quote": null,
+        "sourceUrl": "https://tim.blog/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+        "sourceLabel": "Libros que señaló como favoritos al responder en The Tim Ferriss Show qué libro regala más; recopilación en el blog de Ferriss (2014)."
+      },
+      {
+        "bookId": "heros-journey",
+        "quote": null,
+        "sourceUrl": "https://tim.blog/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+        "sourceLabel": "Libros que señaló como favoritos al responder en The Tim Ferriss Show qué libro regala más; recopilación en el blog de Ferriss (2014)."
+      },
+      {
+        "bookId": "one-monster",
+        "quote": null,
+        "sourceUrl": "https://tim.blog/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+        "sourceLabel": "Libros que señaló como favoritos al responder en The Tim Ferriss Show qué libro regala más; recopilación en el blog de Ferriss (2014)."
+      }
+    ]
+  },
+  {
+    "id": "james-altucher",
+    "name": "James Altucher",
+    "role": "Inversor y autor",
+    "bio": "Inversor y autor. En The Tim Ferriss Show enumeró una lista larga de favoritos; aquí va una selección de esa lista, sin añadir títulos que no estuvieran.",
+    "initials": "JA",
+    "hue": 48,
+    "recommendations": [
+      {
+        "bookId": "antifragile",
+        "quote": null,
+        "sourceUrl": "https://tim.blog/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+        "sourceLabel": "Libros que señaló como favoritos al responder en The Tim Ferriss Show qué libro regala más; recopilación en el blog de Ferriss (2014)."
+      },
+      {
+        "bookId": "black-swan",
+        "quote": null,
+        "sourceUrl": "https://tim.blog/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+        "sourceLabel": "Libros que señaló como favoritos al responder en The Tim Ferriss Show qué libro regala más; recopilación en el blog de Ferriss (2014)."
+      },
+      {
+        "bookId": "fooled-by-randomness",
+        "quote": null,
+        "sourceUrl": "https://tim.blog/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+        "sourceLabel": "Libros que señaló como favoritos al responder en The Tim Ferriss Show qué libro regala más; recopilación en el blog de Ferriss (2014)."
+      },
+      {
+        "bookId": "fight-club",
+        "quote": null,
+        "sourceUrl": "https://tim.blog/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+        "sourceLabel": "Libros que señaló como favoritos al responder en The Tim Ferriss Show qué libro regala más; recopilación en el blog de Ferriss (2014)."
+      },
+      {
+        "bookId": "outliers",
+        "quote": null,
+        "sourceUrl": "https://tim.blog/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+        "sourceLabel": "Libros que señaló como favoritos al responder en The Tim Ferriss Show qué libro regala más; recopilación en el blog de Ferriss (2014)."
+      },
+      {
+        "bookId": "kite-runner",
+        "quote": null,
+        "sourceUrl": "https://tim.blog/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+        "sourceLabel": "Libros que señaló como favoritos al responder en The Tim Ferriss Show qué libro regala más; recopilación en el blog de Ferriss (2014)."
+      }
+    ]
+  },
+  {
+    "id": "ramit-sethi",
+    "name": "Ramit Sethi",
+    "role": "Autor",
+    "bio": "Autor de Te enseñaré a ser rico. En The Tim Ferriss Show señaló como favoritos varios libros de psicología social y de hábitos profesionales.",
+    "initials": "RS",
+    "hue": 130,
+    "recommendations": [
+      {
+        "bookId": "checklist-manifesto",
+        "quote": null,
+        "sourceUrl": "https://tim.blog/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+        "sourceLabel": "Libros que señaló como favoritos al responder en The Tim Ferriss Show qué libro regala más; recopilación en el blog de Ferriss (2014)."
+      },
+      {
+        "bookId": "never-eat-alone",
+        "quote": null,
+        "sourceUrl": "https://tim.blog/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+        "sourceLabel": "Libros que señaló como favoritos al responder en The Tim Ferriss Show qué libro regala más; recopilación en el blog de Ferriss (2014)."
+      },
+      {
+        "bookId": "social-animal-aronson",
+        "quote": null,
+        "sourceUrl": "https://tim.blog/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+        "sourceLabel": "Libros que señaló como favoritos al responder en The Tim Ferriss Show qué libro regala más; recopilación en el blog de Ferriss (2014)."
+      }
+    ]
+  },
+  {
+    "id": "joshua-waitzkin",
+    "name": "Joshua Waitzkin",
+    "role": "Ajedrecista y autor",
+    "bio": "Ajedrecista de niño —inspiró la película En busca de Bobby Fischer— y autor de El arte de aprender. Esta es la selección de favoritos que dio en The Tim Ferriss Show.",
+    "initials": "JW",
+    "hue": 88,
+    "recommendations": [
+      {
+        "bookId": "on-the-road",
+        "quote": null,
+        "sourceUrl": "https://tim.blog/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+        "sourceLabel": "Libros que señaló como favoritos al responder en The Tim Ferriss Show qué libro regala más; recopilación en el blog de Ferriss (2014)."
+      },
+      {
+        "bookId": "tao-te-ching",
+        "quote": null,
+        "sourceUrl": "https://tim.blog/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+        "sourceLabel": "Libros que señaló como favoritos al responder en The Tim Ferriss Show qué libro regala más; recopilación en el blog de Ferriss (2014)."
+      },
+      {
+        "bookId": "zen-motorcycle",
+        "quote": null,
+        "sourceUrl": "https://tim.blog/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+        "sourceLabel": "Libros que señaló como favoritos al responder en The Tim Ferriss Show qué libro regala más; recopilación en el blog de Ferriss (2014)."
+      },
+      {
+        "bookId": "shantaram",
+        "quote": null,
+        "sourceUrl": "https://tim.blog/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+        "sourceLabel": "Libros que señaló como favoritos al responder en The Tim Ferriss Show qué libro regala más; recopilación en el blog de Ferriss (2014)."
+      },
+      {
+        "bookId": "old-man-sea",
+        "quote": null,
+        "sourceUrl": "https://tim.blog/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+        "sourceLabel": "Libros que señaló como favoritos al responder en The Tim Ferriss Show qué libro regala más; recopilación en el blog de Ferriss (2014)."
+      }
+    ]
+  },
+  {
+    "id": "brian-koppelman",
+    "name": "Brian Koppelman",
+    "role": "Guionista y director",
+    "bio": "Coguionista de Rounders y cocreador de Billions. Entre los libros que señaló como favoritos está la novela de Hollywood que también recomienda Ryan Holiday.",
+    "initials": "BK",
+    "hue": 310,
+    "recommendations": [
+      {
+        "bookId": "what-makes-sammy",
+        "quote": null,
+        "sourceUrl": "https://tim.blog/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+        "sourceLabel": "Libros que señaló como favoritos al responder en The Tim Ferriss Show qué libro regala más; recopilación en el blog de Ferriss (2014)."
+      },
+      {
+        "bookId": "war-of-art",
+        "quote": null,
+        "sourceUrl": "https://tim.blog/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+        "sourceLabel": "Libros que señaló como favoritos al responder en The Tim Ferriss Show qué libro regala más; recopilación en el blog de Ferriss (2014)."
+      }
+    ]
+  },
+  {
+    "id": "neil-strauss",
+    "name": "Neil Strauss",
+    "role": "Autor",
+    "bio": "Autor de varios superventas. En The Tim Ferriss Show incluyó entre sus favoritos a Séneca y a García Márquez.",
+    "initials": "NS",
+    "hue": 332,
+    "recommendations": [
+      {
+        "bookId": "shortness-of-life",
+        "quote": null,
+        "sourceUrl": "https://tim.blog/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+        "sourceLabel": "Libros que señaló como favoritos al responder en The Tim Ferriss Show qué libro regala más; recopilación en el blog de Ferriss (2014)."
+      },
+      {
+        "bookId": "hundred-years",
+        "quote": null,
+        "sourceUrl": "https://tim.blog/2014/10/29/the-books-that-shaped-billionaires-mega-bestselling-authors-and-other-prodigies/",
+        "sourceLabel": "Libros que señaló como favoritos al responder en The Tim Ferriss Show qué libro regala más; recopilación en el blog de Ferriss (2014)."
+      }
+    ]
+  }
+]
