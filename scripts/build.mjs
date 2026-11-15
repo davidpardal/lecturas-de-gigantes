@@ -61,7 +61,11 @@ function also(bookId, exceptId) {
 
 function quoteBlock(rec) {
   if (!rec.quote) return "";
-  return `<blockquote><p>${esc(rec.quote)}</p></blockquote>`;
+  const main = rec.quoteEs || rec.quote;
+  const original = rec.quoteEs
+    ? `<p class="quote-original" lang="en">${esc(rec.quote)}</p>`
+    : "";
+  return `<blockquote><p lang="${rec.quoteEs ? "es" : "en"}">${esc(main)}</p>${original}</blockquote>`;
 }
 
 function sourceLine(rec) {

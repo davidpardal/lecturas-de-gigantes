@@ -11,289 +11,337 @@
         "bookId": "beginning-of-infinity",
         "quote": "I credit this book as being the only book in the last decade—except maybe a few of Nassim Taleb’s works and maybe one or two other scattered books—that made me smarter.",
         "sourceUrl": "https://nav.al/think",
-        "sourceLabel": "Conversación de Naval Ravikant en nav.al, «This Book Changed the Way I Think» (2021)."
+        "sourceLabel": "Conversación de Naval Ravikant en nav.al, «This Book Changed the Way I Think» (2021).",
+        "quoteEs": "Considero que este es el único libro de la última década —salvo quizá algunas obras de Nassim Taleb y uno o dos libros sueltos más— que me ha hecho más inteligente."
       },
       {
         "bookId": "fabric-of-reality",
         "quote": "I’m currently stuck in a loop where, at least in science, I’m only going to read The Beginning of Infinity and The Fabric of Reality over and over again until I understand them fully.",
         "sourceUrl": "https://nav.al/read",
-        "sourceLabel": "Conversación de Naval Ravikant en nav.al, «Read the Best 100 Books Over and Over Again» (2021)."
+        "sourceLabel": "Conversación de Naval Ravikant en nav.al, «Read the Best 100 Books Over and Over Again» (2021).",
+        "quoteEs": "Estoy metido en un bucle en el que, al menos en ciencia, solo voy a leer The Beginning of Infinity y The Fabric of Reality una y otra vez hasta entenderlos del todo."
       },
       {
         "bookId": "skin-in-the-game",
         "quote": "Taleb’s Skin In The Game is required reading. If you want to get anywhere in modern life and understand how modern systems work, then Skin In The Game would be near the top of my list to read.",
         "sourceUrl": "https://nav.al/accountability-equity",
-        "sourceLabel": "Conversación de Naval Ravikant en nav.al, «Take Accountability to Earn Equity» (2019)."
+        "sourceLabel": "Conversación de Naval Ravikant en nav.al, «Take Accountability to Earn Equity» (2019).",
+        "quoteEs": "Skin in the Game, de Taleb, es de lectura obligada. Si quieres llegar a alguna parte en la vida moderna y entender cómo funcionan los sistemas actuales, Skin in the Game estaría casi al principio de mi lista."
       },
       {
         "bookId": "wealth-of-nations",
         "quote": "Instead of reading a business book, pick up Adam Smith’s The Wealth of Nations.",
         "sourceUrl": "https://nav.al/love-read",
-        "sourceLabel": "Conversación de Naval Ravikant en nav.al, «Read What You Love Until You Love to Read»."
+        "sourceLabel": "Conversación de Naval Ravikant en nav.al, «Read What You Love Until You Love to Read».",
+        "quoteEs": "En vez de leer un libro de negocios, coge The Wealth of Nations, de Adam Smith."
       },
       {
         "bookId": "origin-of-species",
         "quote": "Instead of reading a book on biology or evolution that’s written today, I would pick up Darwin’s Origin of the Species.",
         "sourceUrl": "https://nav.al/love-read",
-        "sourceLabel": "Conversación de Naval Ravikant en nav.al, «Read What You Love Until You Love to Read»."
+        "sourceLabel": "Conversación de Naval Ravikant en nav.al, «Read What You Love Until You Love to Read».",
+        "quoteEs": "En vez de leer un libro de biología o de evolución escrito hoy, yo cogería El origen de las especies, de Darwin."
       },
       {
         "bookId": "six-easy-pieces",
         "quote": "Instead of reading advanced books on cosmology […] you can pick up Richard Feynman’s Six Easy Pieces and start with basic physics.",
         "sourceUrl": "https://nav.al/love-read",
-        "sourceLabel": "Conversación de Naval Ravikant en nav.al, «Read What You Love Until You Love to Read»."
+        "sourceLabel": "Conversación de Naval Ravikant en nav.al, «Read What You Love Until You Love to Read».",
+        "quoteEs": "En vez de leer libros avanzados de cosmología […] puedes coger Six Easy Pieces, de Richard Feynman, y empezar por la física básica."
       },
       {
         "bookId": "sapiens",
         "quote": "Sapiens is the best book of the last decade I have read.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "Sapiens es el mejor libro de la última década que he leído."
       },
       {
         "bookId": "rational-optimist",
         "quote": "The most brilliant and enlightening book I've read in years. He has written four of my top 20 books.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "El libro más brillante y esclarecedor que he leído en años. Ha escrito cuatro de mis veinte libros preferidos."
       },
       {
         "bookId": "genome-ridley",
         "quote": "Everything else written by Matt Ridley. Matt is a scientist, optimist, and forward thinker. One of my favorite authors. I’ve read everything of his, and reread everything of his.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "Todo lo demás que ha escrito Matt Ridley. Matt es científico, optimista y piensa a largo plazo. Es uno de mis autores favoritos. He leído todo lo suyo, y lo he releído todo."
       },
       {
         "bookId": "red-queen",
         "quote": "I’ve read everything of his, and reread everything of his.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "He leído todo lo suyo, y lo he releído todo."
       },
       {
         "bookId": "origins-of-virtue",
         "quote": "I’ve read everything of his, and reread everything of his.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "He leído todo lo suyo, y lo he releído todo."
       },
       {
         "bookId": "evolution-of-everything",
         "quote": "I’ve read everything of his, and reread everything of his.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "He leído todo lo suyo, y lo he releído todo."
       },
       {
         "bookId": "bed-of-procrustes",
         "quote": "This is his collection of ancient wisdom.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "Esta es su colección de sabiduría antigua."
       },
       {
         "bookId": "black-swan",
         "quote": "He is also famous for The Black Swan, Antifragile, and Fooled by Randomness, all of which are worth reading.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "También es famoso por The Black Swan, Antifragile y Fooled by Randomness, y los tres merecen leerse."
       },
       {
         "bookId": "antifragile",
         "quote": "All of which are worth reading.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "Todos merecen leerse."
       },
       {
         "bookId": "fooled-by-randomness",
         "quote": "All of which are worth reading.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "Todos merecen leerse."
       },
       {
         "bookId": "six-not-so-easy",
         "quote": "I would give my kids a copy of Richard Feynman's Six Easy Pieces and Six Not-So-Easy Pieces.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "Les daría a mis hijos un ejemplar de Six Easy Pieces y de Six Not-So-Easy Pieces, de Richard Feynman."
       },
       {
         "bookId": "thing-explainer",
         "quote": "A great book by Randall Munroe. In this book, he explains very complicated concepts while only using the 1,000 most common words in the English language.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "Un gran libro de Randall Munroe. En él explica conceptos muy complicados usando solo las mil palabras más comunes del inglés."
       },
       {
         "bookId": "thinking-physics",
         "quote": "There’s another great book called Thinking Physics. I open this one all the time.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "Hay otro gran libro que se llama Thinking Physics. Lo abro continuamente."
       },
       {
         "bookId": "lessons-of-history",
         "quote": "This is a great book I really liked which summarizes some of the larger themes of history, very incisive.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "Es un gran libro, me gustó mucho: resume algunos de los grandes temas de la historia, y es muy incisivo."
       },
       {
         "bookId": "sovereign-individual",
         "quote": "This is the best book I've read since Sapiens (far less mainstream, though).",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "Es el mejor libro que he leído desde Sapiens (aunque mucho menos masivo)."
       },
       {
         "bookId": "poor-charlie",
         "quote": "This masquerades as a business book, but it's really just Charlie Munger's advice on overcoming oneself to live a successful and virtuous life.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "Se disfraza de libro de negocios, pero en realidad es el consejo de Charlie Munger sobre cómo vencerse a uno mismo para vivir con éxito y con virtud."
       },
       {
         "bookId": "reality-not-what-it-seems",
         "quote": "This is the best book I've read in the last year. Physics, poetry, philosophy, and history packaged in a very accessible form.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "Es el mejor libro que he leído en el último año. Física, poesía, filosofía e historia, en una forma muy accesible."
       },
       {
         "bookId": "seven-brief-lessons",
         "quote": "I’ve read this one at least twice.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "Este lo he leído al menos dos veces."
       },
       {
         "bookId": "objective-knowledge",
         "quote": "The first thing I would do is start meditating, and then I would read Objective Knowledge by Karl Popper.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "Lo primero que haría es ponerme a meditar, y después leería Objective Knowledge, de Karl Popper."
       },
       {
         "bookId": "evolution-of-cooperation",
         "quote": "For game theory, in addition to playing strategy games, you may want to try The Evolution of Cooperation by Robert Axelrod.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "Para la teoría de juegos, además de jugar a juegos de estrategia, quizá te convenga probar The Evolution of Cooperation, de Robert Axelrod."
       },
       {
         "bookId": "book-of-life",
         "quote": "Probably the best book is The Book of Life. I'll give my kids a copy.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "Probablemente el mejor libro es The Book of Life. Les daré un ejemplar a mis hijos."
       },
       {
         "bookId": "total-freedom",
         "quote": "I like this for someone who’s more advanced. A rationalist’s guide to the perils of the human mind. The “spiritual” book I keep returning to.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "Me gusta para quien ya va más avanzado. Una guía racionalista de los peligros de la mente humana. El libro «espiritual» al que sigo volviendo."
       },
       {
         "bookId": "siddhartha",
         "quote": "I love this as a classic book on philosophy, a good introduction for someone starting out. I’ve given out more copies of this book than any other.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "Me encanta como clásico de filosofía, una buena introducción para quien empieza. He regalado más ejemplares de este libro que de ningún otro."
       },
       {
         "bookId": "meditations",
         "quote": "Marcus Aurelius was absolutely life changing for me. It's the personal diary of the Emperor of Rome.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "Marco Aurelio me cambió la vida por completo. Es el diario personal del emperador de Roma."
       },
       {
         "bookId": "tao-of-seneca",
         "quote": "My most listened-to audiobook. The most important audiobook I've ever heard.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "El audiolibro que más he escuchado. El audiolibro más importante que he oído."
       },
       {
         "bookId": "allegory-of-the-cave",
         "quote": "The next book I would read, if I didn't read it already, is Plato's Allegory of the Cave.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "El siguiente libro que leería, si no lo hubiera leído ya, es la alegoría de la caverna de Platón."
       },
       {
         "bookId": "how-to-change-your-mind",
         "quote": "I think it is a brilliant book everybody should read.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "Creo que es un libro brillante que todo el mundo debería leer."
       },
       {
         "bookId": "doors-of-perception",
         "quote": "Two great books, kind of give you an idea of what you could be facing.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "Dos grandes libros; te dan una idea de a qué te puedes enfrentar."
       },
       {
         "bookId": "psychedelic-explorers",
         "quote": "They complement James Fadiman's book very well.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "Complementan muy bien el libro de James Fadiman."
       },
       {
         "bookId": "know-yourself",
         "quote": "This is the best book on spirituality I've ever read by far.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "Es, con diferencia, el mejor libro de espiritualidad que he leído."
       },
       {
         "bookId": "book-taboo",
         "quote": "The Book: The taboo against knowing who you are. That's a great book.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "The Book: el tabú de saber quién eres. Es un gran libro."
       },
       {
         "bookId": "way-of-zen",
         "quote": "The Way of Zen is just awesome. It's a joy to read that book.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "The Way of Zen es sencillamente magnífico. Es una gozada leer ese libro."
       },
       {
         "bookId": "striking-thoughts",
         "quote": "Bruce Lee wrote some great philosophy and Striking Thoughts is a good summary of some of his philosophy.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "Bruce Lee escribió muy buena filosofía, y Striking Thoughts es un buen resumen de parte de ella."
       },
       {
         "bookId": "the-prophet",
         "quote": "I recommend The Prophet to anybody, whether you’re religious or not. I think it’s a beautiful book, and it’s worth reading.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "Recomiendo El profeta a cualquiera, seas religioso o no. Me parece un libro hermoso, y merece la pena leerlo."
       },
       {
         "bookId": "ficciones",
         "quote": "His short story collection Ficciones, or Labyrinths, is amazing.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "Su libro de cuentos Ficciones, o Labyrinths, es asombroso."
       },
       {
         "bookId": "stories-of-your-life",
         "quote": "My current favorite short story: probably “Understand” by Ted Chiang. It’s in a collection called Stories of Your Life and Others.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "Mi cuento favorito ahora mismo: probablemente «Understand», de Ted Chiang. Está en una colección que se llama Stories of Your Life and Others."
       },
       {
         "bookId": "exhalation",
         "quote": "This contemplates the marvel of thermodynamics from the best sci-fi short story writer of our age.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "Contempla la maravilla de la termodinámica, del mejor autor de cuentos de ciencia ficción de nuestra época."
       },
       {
         "bookId": "lifecycle-software-objects",
         "quote": "Another masterpiece of sci-fi by Ted Chiang.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "Otra obra maestra de ciencia ficción de Ted Chiang."
       },
       {
         "bookId": "snow-crash",
         "quote": "Snow Crash is an amazing, amazing book. There’s nothing quite similar to Snow Crash. Snow Crash is in a league of its own.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "Snow Crash es un libro asombroso, asombroso. No hay nada parecido a Snow Crash. Snow Crash está en una liga aparte."
       },
       {
         "bookId": "the-last-question",
         "quote": "I quote The Last Question all of the time. I loved it as a kid.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "Cito The Last Question continuamente. Me encantó de niño."
       },
       {
         "bookId": "book-of-secrets",
         "quote": "If you want to run through a bunch of them, you can pick up a book called The Book of Secrets by Osho.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "Si quieres recorrer un montón de ellas, puedes coger un libro que se llama The Book of Secrets, de Osho."
       },
       {
         "bookId": "jed-theory",
         "quote": "Everything by Jed McKenna. Jed spits raw truth. His style may be off-putting but the dedication to truth is unparalleled.",
         "sourceUrl": "https://www.navalmanack.com/navals-recommended-reading",
-        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval."
+        "sourceLabel": "Capítulo de lecturas recomendadas de The Almanack of Naval Ravikant (navalmanack.com), con citas públicas de Naval.",
+        "quoteEs": "Todo lo de Jed McKenna. Jed escupe la verdad en crudo. Su estilo puede resultar desagradable, pero su dedicación a la verdad no tiene igual."
       }
     ]
   },
@@ -309,31 +357,36 @@
         "bookId": "stranger-in-a-strange-land",
         "quote": "Of all the sci-fi I read as a teenager, Stranger in a Strange Land is my favorite.",
         "sourceUrl": "https://www.gatesnotes.com/stranger-in-a-strange-land",
-        "sourceLabel": "Reseña de Bill Gates en Gates Notes (21 de noviembre de 2022)."
+        "sourceLabel": "Reseña de Bill Gates en Gates Notes (21 de noviembre de 2022).",
+        "quoteEs": "De toda la ciencia ficción que leí de adolescente, Stranger in a Strange Land es mi favorita."
       },
       {
         "bookId": "surrender",
         "quote": "Even if you’re not [a U2 fan], it’s a super fun read about how a boy from the suburbs of Dublin grew up to become a world-famous rock star and philanthropist.",
         "sourceUrl": "https://www.gatesnotes.com/holiday-books-2022",
-        "sourceLabel": "Lista de cinco libros favoritos de todos los tiempos, Gates Notes (2022)."
+        "sourceLabel": "Lista de cinco libros favoritos de todos los tiempos, Gates Notes (2022).",
+        "quoteEs": "Aunque no seas [fan de U2], se lee con muchísimo gusto: cómo un chico de las afueras de Dublín acabó siendo una estrella del rock mundial y un filántropo."
       },
       {
         "bookId": "team-of-rivals",
         "quote": "I can’t read enough about Abraham Lincoln, and this is one of the best books on the subject.",
         "sourceUrl": "https://www.gatesnotes.com/holiday-books-2022",
-        "sourceLabel": "Lista de cinco libros favoritos de todos los tiempos, Gates Notes (2022)."
+        "sourceLabel": "Lista de cinco libros favoritos de todos los tiempos, Gates Notes (2022).",
+        "quoteEs": "No me canso de leer sobre Abraham Lincoln, y este es uno de los mejores libros sobre el tema."
       },
       {
         "bookId": "inner-game-of-tennis",
         "quote": "This book from 1974 is a must-read for anyone who plays tennis, but I think even people who have never played will get something out of it.",
         "sourceUrl": "https://www.gatesnotes.com/holiday-books-2022",
-        "sourceLabel": "Lista de cinco libros favoritos de todos los tiempos, Gates Notes (2022)."
+        "sourceLabel": "Lista de cinco libros favoritos de todos los tiempos, Gates Notes (2022).",
+        "quoteEs": "Este libro de 1974 es de lectura obligada para quien juega al tenis, pero creo que incluso quien no ha jugado nunca sacará algo de él."
       },
       {
         "bookId": "mendeleyevs-dream",
         "quote": "It’s a fascinating look at how science develops and how human curiosity has evolved over the millennia.",
         "sourceUrl": "https://www.gatesnotes.com/holiday-books-2022",
-        "sourceLabel": "Lista de cinco libros favoritos de todos los tiempos, Gates Notes (2022)."
+        "sourceLabel": "Lista de cinco libros favoritos de todos los tiempos, Gates Notes (2022).",
+        "quoteEs": "Es una mirada fascinante a cómo se desarrolla la ciencia y a cómo ha evolucionado la curiosidad humana a lo largo de milenios."
       }
     ]
   },
@@ -349,37 +402,43 @@
         "bookId": "foundation",
         "quote": "In terms of sci-fi books, I think Isaac Asimov is really great. I like the Foundation series, probably one of the all-time best.",
         "sourceUrl": "https://fs.blog/elon-musk-book-recommendations/",
-        "sourceLabel": "Citas de Elon Musk reunidas por Farnam Street."
+        "sourceLabel": "Citas de Elon Musk reunidas por Farnam Street.",
+        "quoteEs": "En ciencia ficción, Isaac Asimov me parece realmente grande. Me gusta la serie de la Fundación; probablemente una de las mejores de todos los tiempos."
       },
       {
         "bookId": "moon-harsh-mistress",
         "quote": "Robert Heinlein, obviously. I like The Moon Is a Harsh Mistress and I like Stranger in a Strange Land, although it kind of goes off the rails at the end.",
         "sourceUrl": "https://fs.blog/elon-musk-book-recommendations/",
-        "sourceLabel": "Citas de Elon Musk reunidas por Farnam Street."
+        "sourceLabel": "Citas de Elon Musk reunidas por Farnam Street.",
+        "quoteEs": "Robert Heinlein, por supuesto. Me gusta The Moon Is a Harsh Mistress y me gusta Stranger in a Strange Land, aunque hacia el final se desmadra un poco."
       },
       {
         "bookId": "stranger-in-a-strange-land",
         "quote": "I like Stranger in a Strange Land, although it kind of goes off the rails at the end.",
         "sourceUrl": "https://fs.blog/elon-musk-book-recommendations/",
-        "sourceLabel": "Citas de Elon Musk reunidas por Farnam Street."
+        "sourceLabel": "Citas de Elon Musk reunidas por Farnam Street.",
+        "quoteEs": "Me gusta Stranger in a Strange Land, aunque hacia el final se desmadra un poco."
       },
       {
         "bookId": "hitchhikers",
         "quote": "I read Hitchhikers Guide to the Galaxy which is quite positive I think and it highlighted an important point which is that a lot of times the question is harder than the answer.",
         "sourceUrl": "https://fs.blog/elon-musk-book-recommendations/",
-        "sourceLabel": "Entrevista de Elon Musk con Alison van Diggelen, citada por Farnam Street."
+        "sourceLabel": "Entrevista de Elon Musk con Alison van Diggelen, citada por Farnam Street.",
+        "quoteEs": "Leí la Guía del autoestopista galáctico, que me parece bastante positiva, y subrayaba una idea importante: muchas veces la pregunta es más difícil que la respuesta."
       },
       {
         "bookId": "structures",
         "quote": "There’s a good book on structural design called Structures: Or Why Things Don’t Fall Down. It is really, really good if you want a primer on structural design.",
         "sourceUrl": "https://fs.blog/elon-musk-book-recommendations/",
-        "sourceLabel": "Citas de Elon Musk reunidas por Farnam Street."
+        "sourceLabel": "Citas de Elon Musk reunidas por Farnam Street.",
+        "quoteEs": "Hay un buen libro de diseño estructural que se llama Structures: Or Why Things Don’t Fall Down. Es realmente muy bueno si quieres una introducción al diseño estructural."
       },
       {
         "bookId": "ignition",
         "quote": "There is a good book on rocket stuff called Ignition! by John Clark that’s a really fun one.",
         "sourceUrl": "https://fs.blog/elon-musk-book-recommendations/",
-        "sourceLabel": "Citas de Elon Musk reunidas por Farnam Street."
+        "sourceLabel": "Citas de Elon Musk reunidas por Farnam Street.",
+        "quoteEs": "Hay un buen libro de cohetes que se llama Ignition!, de John Clark, y es muy divertido."
       },
       {
         "bookId": "zero-to-one",
@@ -413,19 +472,22 @@
         "bookId": "intelligent-investor",
         "quote": "All of the important ideas in investing … are in that book.",
         "sourceUrl": "https://buffett.cnbc.com/2018/04/20/the-berkshire-hathaway-reading-list.html",
-        "sourceLabel": "Archivo de CNBC sobre las juntas de Berkshire: Buffett lo recomienda «first and foremost» (junta de 1996)."
+        "sourceLabel": "Archivo de CNBC sobre las juntas de Berkshire: Buffett lo recomienda «first and foremost» (junta de 1996).",
+        "quoteEs": "Todas las ideas importantes de la inversión… están en ese libro."
       },
       {
         "bookId": "essays-buffett",
         "quote": "We’ve said exactly what we do.",
         "sourceUrl": "https://buffett.cnbc.com/2018/04/20/the-berkshire-hathaway-reading-list.html",
-        "sourceLabel": "Junta de Berkshire de 2000, archivo de CNBC: Buffett llama a este libro el más representativo de su manera de invertir."
+        "sourceLabel": "Junta de Berkshire de 2000, archivo de CNBC: Buffett llama a este libro el más representativo de su manera de invertir.",
+        "quoteEs": "Hemos dicho exactamente lo que hacemos."
       },
       {
         "bookId": "common-stocks",
         "quote": "Those two books were terrific books.",
         "sourceUrl": "https://buffett.cnbc.com/2018/04/20/the-berkshire-hathaway-reading-list.html",
-        "sourceLabel": "Junta de Berkshire de 2004, archivo de CNBC: Buffett recomienda los libros de Phil Fisher, entre ellos Common Stocks and Uncommon Profits."
+        "sourceLabel": "Junta de Berkshire de 2004, archivo de CNBC: Buffett recomienda los libros de Phil Fisher, entre ellos Common Stocks and Uncommon Profits.",
+        "quoteEs": "Aquellos dos libros eran libros extraordinarios."
       }
     ]
   },
@@ -441,13 +503,15 @@
         "bookId": "influence",
         "quote": "If you have half as much sense as I think you do, you will immediately order copies for all of your children and several of your friends. You will never make a better investment.",
         "sourceUrl": "https://jamesclear.com/great-speeches/psychology-of-human-misjudgment-by-charlie-munger",
-        "sourceLabel": "Discurso de Charlie Munger en Harvard (1995), «The Psychology of Human Misjudgment», transcripción de James Clear."
+        "sourceLabel": "Discurso de Charlie Munger en Harvard (1995), «The Psychology of Human Misjudgment», transcripción de James Clear.",
+        "quoteEs": "Si tienes la mitad del sentido común que creo que tienes, encargarás enseguida ejemplares para todos tus hijos y para varios amigos. No harás nunca una inversión mejor."
       },
       {
         "bookId": "guns-germs-steel",
         "quote": "It’s the best work of its kind I have ever read.",
         "sourceUrl": "https://buffett.cnbc.com/2018/04/20/the-berkshire-hathaway-reading-list.html",
-        "sourceLabel": "Junta de Berkshire de 1998, archivo de CNBC: Munger recomienda Armas, gérmenes y acero."
+        "sourceLabel": "Junta de Berkshire de 1998, archivo de CNBC: Munger recomienda Armas, gérmenes y acero.",
+        "quoteEs": "Es la mejor obra de este tipo que he leído."
       }
     ]
   },
@@ -463,13 +527,15 @@
         "bookId": "remains-of-the-day",
         "quote": "My wife got me to read Remains of the Day and I liked that a lot.",
         "sourceUrl": "https://eriklundegaard.com/item/from-the-archives-my-1996-interview-with-jeff-bezos---part-ii",
-        "sourceLabel": "Entrevista de Jeff Bezos con Erik Lundegaard, octubre de 1996 (publicada en The Seattle Times)."
+        "sourceLabel": "Entrevista de Jeff Bezos con Erik Lundegaard, octubre de 1996 (publicada en The Seattle Times).",
+        "quoteEs": "Mi mujer me hizo leer Los restos del día y me gustó mucho."
       },
       {
         "bookId": "dune",
         "quote": "It used to be Dune. I’m sort of a techno-geek, propeller-head, science-fiction type.",
         "sourceUrl": "https://eriklundegaard.com/item/from-the-archives-my-1996-interview-with-jeff-bezos---part-ii",
-        "sourceLabel": "Entrevista de Jeff Bezos con Erik Lundegaard, octubre de 1996."
+        "sourceLabel": "Entrevista de Jeff Bezos con Erik Lundegaard, octubre de 1996.",
+        "quoteEs": "Antes era Dune. Soy un poco un obseso de la tecnología, de los de hélice en el gorro, de ciencia ficción."
       }
     ]
   },
@@ -485,7 +551,8 @@
         "bookId": "be-here-now",
         "quote": "It was profound. It transformed me and many of my friends.",
         "sourceUrl": "https://www.huffpost.com/entry/the-steve-jobs-reading-list-the-books_n_1024021",
-        "sourceLabel": "Steve Jobs a Walter Isaacson, citado por HuffPost a partir de la biografía (2011)."
+        "sourceLabel": "Steve Jobs a Walter Isaacson, citado por HuffPost a partir de la biografía (2011).",
+        "quoteEs": "Fue profundo. Me transformó a mí y a muchos de mis amigos."
       },
       {
         "bookId": "autobiography-yogi",
@@ -497,13 +564,15 @@
         "bookId": "king-lear",
         "quote": "I loved King Lear.",
         "sourceUrl": "https://www.huffpost.com/entry/the-steve-jobs-reading-list-the-books_n_1024021",
-        "sourceLabel": "Steve Jobs, recordando sus lecturas de instituto, citado por HuffPost vía Isaacson."
+        "sourceLabel": "Steve Jobs, recordando sus lecturas de instituto, citado por HuffPost vía Isaacson.",
+        "quoteEs": "Me encantaba El rey Lear."
       },
       {
         "bookId": "diet-small-planet",
         "quote": "That’s when I swore off meat pretty much for good.",
         "sourceUrl": "https://www.huffpost.com/entry/the-steve-jobs-reading-list-the-books_n_1024021",
-        "sourceLabel": "Steve Jobs a Isaacson, citado por HuffPost, sobre Diet for a Small Planet."
+        "sourceLabel": "Steve Jobs a Isaacson, citado por HuffPost, sobre Diet for a Small Planet.",
+        "quoteEs": "Ahí fue cuando dejé la carne, prácticamente para siempre."
       },
       {
         "bookId": "moby-dick",
@@ -525,49 +594,57 @@
         "bookId": "sapiens",
         "quote": "Following the Muqaddimah, which was a history from the perspective of an intellectual in the 1300s, Sapiens is a contemporary exploration of many similar questions.",
         "sourceUrl": "https://www.businessinsider.com/mark-zuckerberg-book-recommendations-2015-4",
-        "sourceLabel": "Publicación de Mark Zuckerberg en A Year of Books (2015), citada por Business Insider."
+        "sourceLabel": "Publicación de Mark Zuckerberg en A Year of Books (2015), citada por Business Insider.",
+        "quoteEs": "Después de la Muqaddimah, que era una historia desde el punto de vista de un intelectual del siglo XIV, Sapiens es una exploración contemporánea de muchas preguntas parecidas."
       },
       {
         "bookId": "muqaddimah",
         "quote": "While much of what was believed then is now disproven after 700 more years of progress, it’s still very interesting to see what was understood at this time and the overall worldview when it’s all considered together.",
         "sourceUrl": "https://www.businessinsider.com/mark-zuckerberg-book-recommendations-2015-4",
-        "sourceLabel": "Publicación de Mark Zuckerberg en A Year of Books (2015), citada por Business Insider."
+        "sourceLabel": "Publicación de Mark Zuckerberg en A Year of Books (2015), citada por Business Insider.",
+        "quoteEs": "Aunque buena parte de lo que entonces se creía ha quedado desmentido tras setecientos años más de progreso, sigue siendo muy interesante ver qué se entendía en aquella época y cuál era la visión del mundo cuando se mira en conjunto."
       },
       {
         "bookId": "new-jim-crow",
         "quote": "I’ve been interested in learning about criminal justice reform for a while, and this book was highly recommended by several people I trust.",
         "sourceUrl": "https://www.businessinsider.com/mark-zuckerberg-book-recommendations-2015-4",
-        "sourceLabel": "Publicación de Mark Zuckerberg en A Year of Books (2015), citada por Business Insider."
+        "sourceLabel": "Publicación de Mark Zuckerberg en A Year of Books (2015), citada por Business Insider.",
+        "quoteEs": "Llevo un tiempo interesado en aprender sobre la reforma de la justicia penal, y este libro me lo recomendaron mucho varias personas en las que confío."
       },
       {
         "bookId": "end-of-power",
         "quote": "The trend towards giving people more power is one I believe in deeply.",
         "sourceUrl": "https://www.businessinsider.com/mark-zuckerberg-book-recommendations-2015-4",
-        "sourceLabel": "Publicación de Mark Zuckerberg en A Year of Books (2015), citada por Business Insider."
+        "sourceLabel": "Publicación de Mark Zuckerberg en A Year of Books (2015), citada por Business Insider.",
+        "quoteEs": "La tendencia a dar más poder a la gente es algo en lo que creo profundamente."
       },
       {
         "bookId": "creativity-inc",
         "quote": "I love reading first-hand accounts about how people build great companies like Pixar and nurture innovation and creativity.",
         "sourceUrl": "https://www.businessinsider.com/mark-zuckerberg-book-recommendations-2015-4",
-        "sourceLabel": "Publicación de Mark Zuckerberg en A Year of Books (2015), citada por Business Insider."
+        "sourceLabel": "Publicación de Mark Zuckerberg en A Year of Books (2015), citada por Business Insider.",
+        "quoteEs": "Me encanta leer relatos de primera mano sobre cómo se construyen grandes empresas como Pixar y cómo se cuidan la innovación y la creatividad."
       },
       {
         "bookId": "on-immunity",
         "quote": "The science is completely clear: vaccinations work and are important for the health of everyone in our community.",
         "sourceUrl": "https://www.businessinsider.com/mark-zuckerberg-book-recommendations-2015-4",
-        "sourceLabel": "Publicación de Mark Zuckerberg en A Year of Books (2015), citada por Business Insider."
+        "sourceLabel": "Publicación de Mark Zuckerberg en A Year of Books (2015), citada por Business Insider.",
+        "quoteEs": "La ciencia está del todo clara: las vacunas funcionan y son importantes para la salud de todos en nuestra comunidad."
       },
       {
         "bookId": "gang-leader",
         "quote": "The more we all have a voice to share our perspectives, the more empathy we have for each other and the more we respect each other’s rights.",
         "sourceUrl": "https://www.businessinsider.com/mark-zuckerberg-book-recommendations-2015-4",
-        "sourceLabel": "Publicación de Mark Zuckerberg en A Year of Books (2015), citada por Business Insider."
+        "sourceLabel": "Publicación de Mark Zuckerberg en A Year of Books (2015), citada por Business Insider.",
+        "quoteEs": "Cuanta más voz tenemos todos para compartir nuestro punto de vista, más empatía hay entre nosotros y más respetamos los derechos de los demás."
       },
       {
         "bookId": "dealing-with-china",
         "quote": "Over the last 35 years, China has experienced one of the greatest economic and social transformations in human history.",
         "sourceUrl": "https://www.businessinsider.com/mark-zuckerberg-book-recommendations-2015-4",
-        "sourceLabel": "Publicación de Mark Zuckerberg en A Year of Books (2015), citada por Business Insider."
+        "sourceLabel": "Publicación de Mark Zuckerberg en A Year of Books (2015), citada por Business Insider.",
+        "quoteEs": "En los últimos 35 años, China ha vivido una de las mayores transformaciones económicas y sociales de la historia humana."
       }
     ]
   },
@@ -583,49 +660,57 @@
         "bookId": "zorba",
         "quote": "I have recommended this outstanding book before. […] Zorba reminds us how to live fully.",
         "sourceUrl": "https://tim.blog/2012/02/24/the-top-10-fiction-books-for-non-fiction-addicts/",
-        "sourceLabel": "Tim Ferriss, «The Top 10 Fiction Books for Non-Fiction Addicts», tim.blog (2012)."
+        "sourceLabel": "Tim Ferriss, «The Top 10 Fiction Books for Non-Fiction Addicts», tim.blog (2012).",
+        "quoteEs": "Ya he recomendado antes este libro extraordinario. […] Zorba nos recuerda cómo vivir del todo."
       },
       {
         "bookId": "musashi",
         "quote": "I never expected to finish it, and I tore through it in less than two weeks.",
         "sourceUrl": "https://tim.blog/2012/02/24/the-top-10-fiction-books-for-non-fiction-addicts/",
-        "sourceLabel": "Tim Ferriss, «The Top 10 Fiction Books for Non-Fiction Addicts», tim.blog (2012)."
+        "sourceLabel": "Tim Ferriss, «The Top 10 Fiction Books for Non-Fiction Addicts», tim.blog (2012).",
+        "quoteEs": "No esperaba terminarlo, y lo devoré en menos de dos semanas."
       },
       {
         "bookId": "stranger-in-a-strange-land",
         "quote": "Ever feel like you don’t quite fit in? Don’t want to follow society’s silly rules? Then you can probably relate to human-born and Martian-raised Valentine Michael Smith.",
         "sourceUrl": "https://tim.blog/2012/02/24/the-top-10-fiction-books-for-non-fiction-addicts/",
-        "sourceLabel": "Tim Ferriss, «The Top 10 Fiction Books for Non-Fiction Addicts», tim.blog (2012)."
+        "sourceLabel": "Tim Ferriss, «The Top 10 Fiction Books for Non-Fiction Addicts», tim.blog (2012).",
+        "quoteEs": "¿Alguna vez te has sentido fuera de lugar? ¿No quieres seguir las reglas absurdas de la sociedad? Entonces probablemente te identifiques con Valentine Michael Smith, nacido humano y criado en Marte."
       },
       {
         "bookId": "enders-game",
         "quote": "If people ask me, for instance, “Which books should I read on leadership?”, I might reply: “Dune and Ender’s Game.”",
         "sourceUrl": "https://tim.blog/2012/02/24/the-top-10-fiction-books-for-non-fiction-addicts/",
-        "sourceLabel": "Tim Ferriss, «The Top 10 Fiction Books for Non-Fiction Addicts», tim.blog (2012)."
+        "sourceLabel": "Tim Ferriss, «The Top 10 Fiction Books for Non-Fiction Addicts», tim.blog (2012).",
+        "quoteEs": "Si me preguntan, por ejemplo, «¿qué libros debería leer sobre liderazgo?», podría responder: «Dune y El juego de Ender»."
       },
       {
         "bookId": "dune",
         "quote": "Dune presents, despite my synopsis, perhaps the most incredibly detailed and oddly believable fictional landscape I’ve ever encountered.",
         "sourceUrl": "https://tim.blog/2012/02/24/the-top-10-fiction-books-for-non-fiction-addicts/",
-        "sourceLabel": "Tim Ferriss, «The Top 10 Fiction Books for Non-Fiction Addicts», tim.blog (2012)."
+        "sourceLabel": "Tim Ferriss, «The Top 10 Fiction Books for Non-Fiction Addicts», tim.blog (2012).",
+        "quoteEs": "Dune presenta, pese a mi resumen, el paisaje de ficción más increíblemente detallado y extrañamente creíble que he encontrado."
       },
       {
         "bookId": "hitchhikers",
         "quote": "If you need humor to make the jump to fiction, this might be your gateway drug.",
         "sourceUrl": "https://tim.blog/2012/02/24/the-top-10-fiction-books-for-non-fiction-addicts/",
-        "sourceLabel": "Tim Ferriss, «The Top 10 Fiction Books for Non-Fiction Addicts», tim.blog (2012)."
+        "sourceLabel": "Tim Ferriss, «The Top 10 Fiction Books for Non-Fiction Addicts», tim.blog (2012).",
+        "quoteEs": "Si necesitas humor para dar el salto a la ficción, esta puede ser tu puerta de entrada."
       },
       {
         "bookId": "fahrenheit-451",
         "quote": "This classic work on state censorship remains as relevant in today’s world of digital delights as it was when published in the black-and-white world of 1953.",
         "sourceUrl": "https://tim.blog/2012/02/24/the-top-10-fiction-books-for-non-fiction-addicts/",
-        "sourceLabel": "Tim Ferriss, «The Top 10 Fiction Books for Non-Fiction Addicts», tim.blog (2012)."
+        "sourceLabel": "Tim Ferriss, «The Top 10 Fiction Books for Non-Fiction Addicts», tim.blog (2012).",
+        "quoteEs": "Esta obra clásica sobre la censura del Estado sigue siendo tan pertinente en el mundo actual de los placeres digitales como cuando se publicó, en el mundo en blanco y negro de 1953."
       },
       {
         "bookId": "letters-seneca",
         "quote": "Zorba the Greek and Seneca: Letters from a Stoic. These are two of the most readable books of practical philosophies I’ve ever had the fortune to encounter.",
         "sourceUrl": "https://tim.blog/2008/12/31/things-ive-learned-and-loved-in-2008/",
-        "sourceLabel": "Tim Ferriss, «Things I’ve Learned and Loved in 2008», tim.blog."
+        "sourceLabel": "Tim Ferriss, «Things I’ve Learned and Loved in 2008», tim.blog.",
+        "quoteEs": "Zorba el griego y las Cartas de un estoico, de Séneca. Son dos de los libros de filosofía práctica más legibles que he tenido la suerte de encontrar."
       }
     ]
   },
@@ -641,43 +726,50 @@
         "bookId": "mark-twain",
         "quote": "A comprehensive biography of one of the most important writers and social commentators in American history.",
         "sourceUrl": "https://www.obama.org/stories/president-obamas-favorite-books-summer-2025/",
-        "sourceLabel": "Lista de verano de 2025, Fundación Obama."
+        "sourceLabel": "Lista de verano de 2025, Fundación Obama.",
+        "quoteEs": "Una biografía exhaustiva de uno de los escritores y comentaristas sociales más importantes de la historia de Estados Unidos."
       },
       {
         "bookId": "abundance",
         "quote": "A must-read for progressives who want a blueprint for reforming government so it can deliver for working people.",
         "sourceUrl": "https://www.obama.org/stories/president-obamas-favorite-books-summer-2025/",
-        "sourceLabel": "Lista de verano de 2025, Fundación Obama."
+        "sourceLabel": "Lista de verano de 2025, Fundación Obama.",
+        "quoteEs": "De lectura obligada para los progresistas que quieran un plano para reformar el Gobierno de modo que responda a la gente que trabaja."
       },
       {
         "bookId": "king-of-ashes",
         "quote": "One of my favorite crime fiction writers delivers in this story of family, ambition and corruption in a racially charged and violent South.",
         "sourceUrl": "https://www.obama.org/stories/president-obamas-favorite-books-summer-2025/",
-        "sourceLabel": "Lista de verano de 2025, Fundación Obama."
+        "sourceLabel": "Lista de verano de 2025, Fundación Obama.",
+        "quoteEs": "Uno de mis autores favoritos de novela negra cumple en esta historia de familia, ambición y corrupción en un Sur cargado de raza y de violencia."
       },
       {
         "bookId": "marriage-at-sea",
         "quote": "Amazing true story of a couple surviving crisis in the open seas.",
         "sourceUrl": "https://www.obama.org/stories/president-obamas-favorite-books-summer-2025/",
-        "sourceLabel": "Lista de verano de 2025, Fundación Obama."
+        "sourceLabel": "Lista de verano de 2025, Fundación Obama.",
+        "quoteEs": "Una historia real asombrosa: una pareja que sobrevive a una crisis en alta mar."
       },
       {
         "bookId": "who-is-government",
         "quote": "A timely reminder of the quiet dedication and skill of the people who work every day to make this country work.",
         "sourceUrl": "https://www.obama.org/stories/president-obamas-favorite-books-summer-2025/",
-        "sourceLabel": "Lista de verano de 2025, Fundación Obama."
+        "sourceLabel": "Lista de verano de 2025, Fundación Obama.",
+        "quoteEs": "Un recordatorio oportuno de la dedicación callada y de la destreza de quienes trabajan cada día para que este país funcione."
       },
       {
         "bookId": "sirens-call",
         "quote": "A useful primer on how social media and the attention economy have warped our democracy and reshaped our lives.",
         "sourceUrl": "https://www.obama.org/stories/president-obamas-favorite-books-summer-2025/",
-        "sourceLabel": "Lista de verano de 2025, Fundación Obama."
+        "sourceLabel": "Lista de verano de 2025, Fundación Obama.",
+        "quoteEs": "Una introducción útil a cómo las redes sociales y la economía de la atención han deformado nuestra democracia y han rehecho nuestras vidas."
       },
       {
         "bookId": "book-of-records",
         "quote": "A beautiful fable about migration, memory, and the struggle to recognize our common humanity.",
         "sourceUrl": "https://www.obama.org/stories/president-obamas-favorite-books-summer-2025/",
-        "sourceLabel": "Lista de verano de 2025, Fundación Obama."
+        "sourceLabel": "Lista de verano de 2025, Fundación Obama.",
+        "quoteEs": "Una fábula hermosa sobre la migración, la memoria y el esfuerzo por reconocer nuestra humanidad común."
       },
       {
         "bookId": "empire-of-pain",
@@ -711,55 +803,64 @@
         "bookId": "meditations",
         "quote": "To me, this is not only one of greatest books ever written but perhaps the only book of its kind.",
         "sourceUrl": "https://ryanholiday.net/the-reading-list/",
-        "sourceLabel": "Ryan Holiday, «Books To Base Your Life On», ryanholiday.net."
+        "sourceLabel": "Ryan Holiday, «Books To Base Your Life On», ryanholiday.net.",
+        "quoteEs": "Para mí no es solo uno de los mejores libros jamás escritos, sino quizá el único de su especie."
       },
       {
         "bookId": "letters-seneca",
         "quote": "After Marcus Aurelius, this is one of my favorite books. […] Seneca’s letters are the best place to start.",
         "sourceUrl": "https://ryanholiday.net/the-reading-list/",
-        "sourceLabel": "Ryan Holiday, «Books To Base Your Life On», ryanholiday.net."
+        "sourceLabel": "Ryan Holiday, «Books To Base Your Life On», ryanholiday.net.",
+        "quoteEs": "Después de Marco Aurelio, este es uno de mis libros favoritos. […] Las cartas de Séneca son el mejor sitio por donde empezar."
       },
       {
         "bookId": "shortness-of-life",
         "quote": "The essays in On the Shortness of Life are excellent as well.",
         "sourceUrl": "https://ryanholiday.net/the-reading-list/",
-        "sourceLabel": "Ryan Holiday, «Books To Base Your Life On», ryanholiday.net."
+        "sourceLabel": "Ryan Holiday, «Books To Base Your Life On», ryanholiday.net.",
+        "quoteEs": "Los ensayos de Sobre la brevedad de la vida también son excelentes."
       },
       {
         "bookId": "mans-search",
         "quote": "Frankl is one of the most profound modern thinkers on meaning and purpose.",
         "sourceUrl": "https://ryanholiday.net/the-reading-list/",
-        "sourceLabel": "Ryan Holiday, «Books To Base Your Life On», ryanholiday.net."
+        "sourceLabel": "Ryan Holiday, «Books To Base Your Life On», ryanholiday.net.",
+        "quoteEs": "Frankl es uno de los pensadores modernos más profundos sobre el sentido y el propósito."
       },
       {
         "bookId": "score-takes-care",
         "quote": "Even if you’ve never watched a down of football, you’ll get something out of this book.",
         "sourceUrl": "https://ryanholiday.net/the-reading-list/",
-        "sourceLabel": "Ryan Holiday, «Books To Base Your Life On», ryanholiday.net."
+        "sourceLabel": "Ryan Holiday, «Books To Base Your Life On», ryanholiday.net.",
+        "quoteEs": "Aunque no hayas visto ni una jugada de fútbol americano, sacarás algo de este libro."
       },
       {
         "bookId": "endurance-lansing",
         "quote": "This book (and his life) were living proof of his family motto: “Fortitudine vincimus” (By endurance we conquer).",
         "sourceUrl": "https://ryanholiday.net/the-reading-list/",
-        "sourceLabel": "Ryan Holiday, «Books To Base Your Life On», ryanholiday.net."
+        "sourceLabel": "Ryan Holiday, «Books To Base Your Life On», ryanholiday.net.",
+        "quoteEs": "Este libro (y su vida) eran la prueba viva del lema de su familia: «Fortitudine vincimus» (vencemos por la resistencia)."
       },
       {
         "bookId": "black-swan",
         "quote": "You can draw a pretty straight line from Seneca […] to the modern day writings of Nassim Nicholas Taleb (read: The Black Swan, Fooled By Randomness and The Bed of Procrustes).",
         "sourceUrl": "https://ryanholiday.net/the-reading-list/",
-        "sourceLabel": "Ryan Holiday, «Books To Base Your Life On», ryanholiday.net."
+        "sourceLabel": "Ryan Holiday, «Books To Base Your Life On», ryanholiday.net.",
+        "quoteEs": "Se puede trazar una línea bastante recta desde Séneca […] hasta lo que escribe hoy Nassim Nicholas Taleb (leed: The Black Swan, Fooled by Randomness y The Bed of Procrustes)."
       },
       {
         "bookId": "fooled-by-randomness",
         "quote": "Read: The Black Swan, Fooled By Randomness and The Bed of Procrustes.",
         "sourceUrl": "https://ryanholiday.net/the-reading-list/",
-        "sourceLabel": "Ryan Holiday, «Books To Base Your Life On», ryanholiday.net."
+        "sourceLabel": "Ryan Holiday, «Books To Base Your Life On», ryanholiday.net.",
+        "quoteEs": "Leed: The Black Swan, Fooled by Randomness y The Bed of Procrustes."
       },
       {
         "bookId": "bed-of-procrustes",
         "quote": "Read: The Black Swan, Fooled By Randomness and The Bed of Procrustes.",
         "sourceUrl": "https://ryanholiday.net/the-reading-list/",
-        "sourceLabel": "Ryan Holiday, «Books To Base Your Life On», ryanholiday.net."
+        "sourceLabel": "Ryan Holiday, «Books To Base Your Life On», ryanholiday.net.",
+        "quoteEs": "Leed: The Black Swan, Fooled by Randomness y The Bed of Procrustes."
       },
       {
         "bookId": "antifragile",
@@ -771,19 +872,22 @@
         "bookId": "vasari-lives",
         "quote": "What I like about this book is that the profiles are not about statesmen or generals but artists.",
         "sourceUrl": "https://ryanholiday.net/the-reading-list/",
-        "sourceLabel": "Ryan Holiday, «Books To Base Your Life On», ryanholiday.net."
+        "sourceLabel": "Ryan Holiday, «Books To Base Your Life On», ryanholiday.net.",
+        "quoteEs": "Lo que me gusta de este libro es que los retratos no son de estadistas ni de generales, sino de artistas."
       },
       {
         "bookId": "forty-eight-laws",
         "quote": "You MUST read his books. His work on power and strategy are critical for anyone trying to accomplish anything.",
         "sourceUrl": "https://ryanholiday.net/the-reading-list/",
-        "sourceLabel": "Ryan Holiday, «Books To Base Your Life On», ryanholiday.net."
+        "sourceLabel": "Ryan Holiday, «Books To Base Your Life On», ryanholiday.net.",
+        "quoteEs": "TENÉIS que leer sus libros. Su trabajo sobre el poder y la estrategia es imprescindible para cualquiera que intente lograr algo."
       },
       {
         "bookId": "what-makes-sammy",
         "quote": "What Makes Sammy Run? is Ari Gold before Ari Gold existed.",
         "sourceUrl": "https://ryanholiday.net/the-reading-list/",
-        "sourceLabel": "Ryan Holiday, «Books To Base Your Life On», ryanholiday.net."
+        "sourceLabel": "Ryan Holiday, «Books To Base Your Life On», ryanholiday.net.",
+        "quoteEs": "What Makes Sammy Run? es Ari Gold antes de que existiera Ari Gold."
       },
       {
         "bookId": "franklin-isaacson",
@@ -893,37 +997,43 @@
         "bookId": "whole-earth-discipline",
         "quote": "On why even environmentalists should be pro building, pro cities, pro nuclear, and pro genetic engineering.",
         "sourceUrl": "https://threadreaderapp.com/thread/1251634412334141440.html",
-        "sourceLabel": "Hilo de Marc Andreessen en Twitter, 18 de abril de 2020 (archivo legible en Thread Reader)."
+        "sourceLabel": "Hilo de Marc Andreessen en Twitter, 18 de abril de 2020 (archivo legible en Thread Reader).",
+        "quoteEs": "Sobre por qué hasta los ecologistas deberían estar a favor de construir, de las ciudades, de la nuclear y de la ingeniería genética."
       },
       {
         "bookId": "more-from-less",
         "quote": "On how modern technological economies can build more outputs with less inputs, and why we need all economies to be modern and technological.",
         "sourceUrl": "https://threadreaderapp.com/thread/1251634412334141440.html",
-        "sourceLabel": "Hilo de Marc Andreessen en Twitter, 18 de abril de 2020."
+        "sourceLabel": "Hilo de Marc Andreessen en Twitter, 18 de abril de 2020.",
+        "quoteEs": "Sobre cómo las economías tecnológicas modernas pueden producir más con menos insumos, y por qué necesitamos que todas las economías sean modernas y tecnológicas."
       },
       {
         "bookId": "triumph-of-the-city",
         "quote": "On the central role cities play in our world and why it’s so important for us to build them — more, bigger, better.",
         "sourceUrl": "https://threadreaderapp.com/thread/1251634412334141440.html",
-        "sourceLabel": "Hilo de Marc Andreessen en Twitter, 18 de abril de 2020."
+        "sourceLabel": "Hilo de Marc Andreessen en Twitter, 18 de abril de 2020.",
+        "quoteEs": "Sobre el papel central de las ciudades en nuestro mundo y por qué es tan importante construirlas: más, más grandes, mejores."
       },
       {
         "bookId": "edison-morris",
         "quote": "On perhaps the greatest American builder of all, the builder who brought electricity to us all, Thomas Edison.",
         "sourceUrl": "https://threadreaderapp.com/thread/1251634412334141440.html",
-        "sourceLabel": "Hilo de Marc Andreessen en Twitter, 18 de abril de 2020."
+        "sourceLabel": "Hilo de Marc Andreessen en Twitter, 18 de abril de 2020.",
+        "quoteEs": "Sobre quizá el mayor constructor estadounidense de todos, el que nos trajo la electricidad a todos: Thomas Edison."
       },
       {
         "bookId": "the-tycoons",
         "quote": "On how four great builders of the 19th century built the world we live in today.",
         "sourceUrl": "https://threadreaderapp.com/thread/1251634412334141440.html",
-        "sourceLabel": "Hilo de Marc Andreessen en Twitter, 18 de abril de 2020."
+        "sourceLabel": "Hilo de Marc Andreessen en Twitter, 18 de abril de 2020.",
+        "quoteEs": "Sobre cómo cuatro grandes constructores del siglo XIX edificaron el mundo en el que vivimos hoy."
       },
       {
         "bookId": "golden-gates",
         "quote": "On why we can’t build in great American cities like San Francisco today and what we need to do about it.",
         "sourceUrl": "https://threadreaderapp.com/thread/1251634412334141440.html",
-        "sourceLabel": "Hilo de Marc Andreessen en Twitter, 18 de abril de 2020."
+        "sourceLabel": "Hilo de Marc Andreessen en Twitter, 18 de abril de 2020.",
+        "quoteEs": "Sobre por qué hoy no podemos construir en grandes ciudades estadounidenses como San Francisco, y qué hay que hacer al respecto."
       }
     ]
   },
@@ -939,7 +1049,8 @@
         "bookId": "things-hidden",
         "quote": "Girard gives a sweeping view of the whole human experience on this planet — something captured in the title of his masterwork, Things Hidden Since the Foundation of the World.",
         "sourceUrl": "https://tim.blog/2014/09/09/peter-thiel/",
-        "sourceLabel": "Entrevista de Peter Thiel con Tim Ferriss (2014): el libro que más ha regalado."
+        "sourceLabel": "Entrevista de Peter Thiel con Tim Ferriss (2014): el libro que más ha regalado.",
+        "quoteEs": "Girard ofrece una visión de conjunto de toda la experiencia humana en este planeta, algo que queda recogido en el título de su obra mayor, Things Hidden Since the Foundation of the World."
       },
       {
         "bookId": "sovereign-individual",
@@ -1009,7 +1120,8 @@
         "bookId": "the-supermen",
         "quote": "That one’s particularly good.",
         "sourceUrl": "https://news.ycombinator.com/item?id=10423017",
-        "sourceLabel": "AMA de Twitter de Sam Altman (21 de octubre de 2015). La nota es del transcriptor, que recogió el comentario de Altman al enseñar el libro."
+        "sourceLabel": "AMA de Twitter de Sam Altman (21 de octubre de 2015). La nota es del transcriptor, que recogió el comentario de Altman al enseñar el libro.",
+        "quoteEs": "Ese es particularmente bueno."
       },
       {
         "bookId": "beak-of-the-finch",
@@ -1021,13 +1133,15 @@
         "bookId": "art-of-war-middle-ages",
         "quote": "This is correct—art of war in the Middle Ages.",
         "sourceUrl": "https://news.ycombinator.com/item?id=10423017",
-        "sourceLabel": "Comentario del propio Sam Altman en el hilo de Hacker News, corrigiendo el título."
+        "sourceLabel": "Comentario del propio Sam Altman en el hilo de Hacker News, corrigiendo el título.",
+        "quoteEs": "Correcto: el arte de la guerra en la Edad Media."
       },
       {
         "bookId": "pandaemonium",
         "quote": "This is an incredible read, and as we sit in the middle of the software revolution it’s worthwhile to see what people thought as the industrial revolution was happening.",
         "sourceUrl": "https://www.ycombinator.com/blog/ycs-winter-reading-list",
-        "sourceLabel": "Lista de invierno de Y Combinator (2016), con la frase de Sam Altman."
+        "sourceLabel": "Lista de invierno de Y Combinator (2016), con la frase de Sam Altman.",
+        "quoteEs": "Es una lectura increíble y, metidos como estamos en la revolución del software, merece la pena ver qué pensaba la gente mientras ocurría la revolución industrial."
       }
     ]
   },
@@ -1043,19 +1157,22 @@
         "bookId": "soul-new-machine",
         "quote": "The best source of information about startups is probably not business books, but histories of particular startups and industries. The most famous is Tracy Kidder’s Soul of a New Machine.",
         "sourceUrl": "https://paulgraham.com/startupfaq.html",
-        "sourceLabel": "Paul Graham, «Startup FAQ», paulgraham.com."
+        "sourceLabel": "Paul Graham, «Startup FAQ», paulgraham.com.",
+        "quoteEs": "La mejor fuente de información sobre startups probablemente no son los libros de negocios, sino las historias de startups y de sectores concretos. La más famosa es The Soul of a New Machine, de Tracy Kidder."
       },
       {
         "bookId": "how-to-win-friends",
         "quote": "The one book we encourage startup founders to read is Dale Carnegie’s How to Win Friends and Influence People.",
         "sourceUrl": "https://paulgraham.com/startupfaq.html",
-        "sourceLabel": "Paul Graham, «Startup FAQ», paulgraham.com."
+        "sourceLabel": "Paul Graham, «Startup FAQ», paulgraham.com.",
+        "quoteEs": "El único libro que animamos a leer a quienes fundan una startup es How to Win Friends and Influence People, de Dale Carnegie."
       },
       {
         "bookId": "franklin-autobiography",
         "quote": "I’d also recommend Franklin’s Autobiography.",
         "sourceUrl": "https://paulgraham.com/startupfaq.html",
-        "sourceLabel": "Paul Graham, «Startup FAQ», paulgraham.com."
+        "sourceLabel": "Paul Graham, «Startup FAQ», paulgraham.com.",
+        "quoteEs": "También recomendaría la Autobiografía de Franklin."
       },
       {
         "bookId": "vasari-lives",
