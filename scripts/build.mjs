@@ -141,7 +141,7 @@ const ranked = [...recommenders.entries()]
   .sort((a, b) => b.list.length - a.list.length || a.book.title.localeCompare(b.book.title, "es"));
 
 const homeTitle = "Lecturas de gigantes";
-const homeDesc = "Libros recomendados en público por Naval Ravikant, Bill Gates, Warren Buffett y otras personas influyentes. Cada título, con su fuente.";
+const homeDesc = "Libros recomendados en público por Naval Ravikant, Bill Gates, Warren Buffett, Mario Vargas Llosa y otras personas influyentes. Cada título, con su fuente.";
 const catalog = books.map((book) => ({
   title: book.title,
   original: book.originalTitle,
@@ -161,6 +161,17 @@ function shelfBook(book) {
       <span class="face back"></span>
     </span>
   </a>`;
+}
+
+function personCard(person) {
+  return `<a class="person-card" href="personas/${person.id}.html" data-name="${esc(person.name + " " + person.role)}" data-books="${esc(person.recommendations.map((rec) => bookById.get(rec.bookId).title + " " + bookById.get(rec.bookId).author).join(" "))}">
+          <span class="avatar" style="--hue:${person.hue}">${esc(person.initials)}</span>
+          <span>
+            <h3>${esc(person.name)}</h3>
+            <p>${esc(person.role)}</p>
+            <span class="count">${person.recommendations.length} ${person.recommendations.length === 1 ? "libro" : "libros"}</span>
+          </span>
+        </a>`;
 }
 
 const index = `${head({
@@ -230,14 +241,16 @@ ${header("", "home")}
         </div>
       </div>
       <div class="people" id="people">
-        ${people.map((person) => `<a class="person-card" href="personas/${person.id}.html" data-name="${esc(person.name + " " + person.role)}" data-books="${esc(person.recommendations.map((rec) => bookById.get(rec.bookId).title + " " + bookById.get(rec.bookId).author).join(" "))}">
-          <span class="avatar" style="--hue:${person.hue}">${esc(person.initials)}</span>
-          <span>
-            <h3>${esc(person.name)}</h3>
-            <p>${esc(person.role)}</p>
-            <span class="count">${person.recommendations.length} libros</span>
-          </span>
-        </a>`).join("")}
+        ${people.filter((person) => !person.spanish).map((person) => personCard(person)).join("")}
+      </div>
+      <div class="section-head">
+        <div>
+          <h2>Voces en español</h2>
+          <p>Escritores, economistas e inversores de habla hispana y lo que recomiendan leer.</p>
+        </div>
+      </div>
+      <div class="people" id="people-es">
+        ${people.filter((person) => person.spanish).map((person) => personCard(person)).join("")}
       </div>
     </div>
     ${footer("")}
@@ -300,7 +313,7 @@ writeFileSync(join(root, "index.html"), index);
 writeFileSync(join(root, "mas-recomendados.html"), most);
 
 for (const person of people) {
-  const description = `${person.name}, ${person.role}. ${person.recommendations.length} libros que ha recomendado en público, con la fuente de cada uno.`;
+  const description = `${person.name}, ${person.role}. ${person.recommendations.length} ${person.recommendations.length === 1 ? "libro" : "libros"} que ha recomendado en público, con la fuente de cada uno.`;
   const html = `${head({
     title: `${person.name}: libros que recomienda — Lecturas de gigantes`,
     description: description.slice(0, 180),
@@ -324,7 +337,7 @@ ${header("../", "")}
       <span class="avatar lg" style="--hue:${person.hue}">${esc(person.initials)}</span>
       <div>
         <h1>${esc(person.name)}</h1>
-        <p class="role">${esc(person.role)} · ${person.recommendations.length} libros</p>
+        <p class="role">${esc(person.role)} · ${person.recommendations.length} ${person.recommendations.length === 1 ? "libro" : "libros"}</p>
         <p>${esc(person.bio)}</p>
       </div>
     </header>
@@ -338,7 +351,7 @@ ${header("../", "")}
             <h2><a href="../libros/${book.id}.html">${esc(book.title)}</a></h2>
             <p class="by">${esc(book.author)}</p>
             ${original}
-            <p>${esc(book.description)}</p>
+            <p class="desc">${esc(book.description)}</p>
             ${quoteBlock(rec)}
             ${sourceLine(rec)}
             ${also(book.id, person.id)}

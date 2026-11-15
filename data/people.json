@@ -387,6 +387,34 @@
         "sourceUrl": "https://www.gatesnotes.com/holiday-books-2022",
         "sourceLabel": "Lista de cinco libros favoritos de todos los tiempos, Gates Notes (2022).",
         "quoteEs": "Es una mirada fascinante a cómo se desarrolla la ciencia y a cómo ha evolucionado la curiosidad humana a lo largo de milenios."
+      },
+      {
+        "bookId": "enlightenment-now",
+        "quote": "It’s my new favorite book of all time.",
+        "sourceUrl": "https://gatesnotes.com/Books/Enlightenment-Now",
+        "sourceLabel": "Reseña de Bill Gates en Gates Notes, «My new favorite book of all time» (2018).",
+        "quoteEs": "Es mi nuevo libro favorito de todos los tiempos."
+      },
+      {
+        "bookId": "better-angels",
+        "quote": "For years, I’ve been saying Steven Pinker’s The Better Angels of Our Nature was the best book I’d read in a decade.",
+        "sourceUrl": "https://gatesnotes.com/Books/Enlightenment-Now",
+        "sourceLabel": "Gates Notes (2018): Gates repasa por qué llevaba años recomendándolo.",
+        "quoteEs": "Durante años he dicho que The Better Angels of Our Nature, de Steven Pinker, era el mejor libro que había leído en una década."
+      },
+      {
+        "bookId": "business-adventures",
+        "quote": "Business Adventures remains the best business book I've ever read.",
+        "sourceUrl": "https://www.cnbc.com/id/104077340",
+        "sourceLabel": "Texto de Gates en su blog (2014), recogido por CNBC.",
+        "quoteEs": "Business Adventures sigue siendo el mejor libro de empresa que he leído."
+      },
+      {
+        "bookId": "factfulness",
+        "quote": "One of the most important books I’ve ever read.",
+        "sourceUrl": "https://ti.me/2q0MEaE",
+        "sourceLabel": "Entrevista de Bill Gates en TIME sobre Factfulness (2018).",
+        "quoteEs": "Uno de los libros más importantes que he leído."
       }
     ]
   },
@@ -488,6 +516,26 @@
         "sourceUrl": "https://buffett.cnbc.com/2018/04/20/the-berkshire-hathaway-reading-list.html",
         "sourceLabel": "Junta de Berkshire de 2004, archivo de CNBC: Buffett recomienda los libros de Phil Fisher, entre ellos Common Stocks and Uncommon Profits.",
         "quoteEs": "Aquellos dos libros eran libros extraordinarios."
+      },
+      {
+        "bookId": "little-book-bogle",
+        "quote": "investors – large and small – should instead read Jack Bogle’s The Little Book of Common Sense Investing.",
+        "sourceUrl": "https://www.berkshirehathaway.com/letters/2014ltr.pdf",
+        "sourceLabel": "Carta anual de Warren Buffett a los accionistas de Berkshire Hathaway, 2014.",
+        "quoteEs": "los inversores, grandes y pequeños, deberían leer en su lugar The Little Book of Common Sense Investing, de Jack Bogle."
+      },
+      {
+        "bookId": "outsiders-thorndike",
+        "quote": "an outstanding book about CEOs who excelled at capital allocation.",
+        "sourceUrl": "https://www.berkshirehathaway.com/letters/2012ltr.pdf",
+        "sourceLabel": "Carta anual de Warren Buffett a los accionistas de Berkshire Hathaway, 2012.",
+        "quoteEs": "un libro extraordinario sobre consejeros delegados que destacaron asignando capital."
+      },
+      {
+        "bookId": "business-adventures",
+        "quote": null,
+        "sourceUrl": "https://www.cnbc.com/id/104077340",
+        "sourceLabel": "Bill Gates cuenta que en 1991 Buffett se lo recomendó como su libro de empresa favorito y le prestó su ejemplar (CNBC)."
       }
     ]
   },
@@ -512,6 +560,31 @@
         "sourceUrl": "https://buffett.cnbc.com/2018/04/20/the-berkshire-hathaway-reading-list.html",
         "sourceLabel": "Junta de Berkshire de 1998, archivo de CNBC: Munger recomienda Armas, gérmenes y acero.",
         "quoteEs": "Es la mejor obra de este tipo que he leído."
+      },
+      {
+        "bookId": "universe-from-nothing",
+        "quote": "one of the most remarkable books I’ve ever read",
+        "sourceUrl": "https://fs.blog/worldly-wisdom",
+        "sourceLabel": "Junta de accionistas de Daily Journal, recogida por Farnam Street.",
+        "quoteEs": "uno de los libros más notables que he leído"
+      },
+      {
+        "bookId": "outsiders-thorndike",
+        "quote": null,
+        "sourceUrl": "https://fs.blog/worldly-wisdom",
+        "sourceLabel": "Recomendado por Munger en la junta de Daily Journal, según Farnam Street."
+      },
+      {
+        "bookId": "selfish-gene",
+        "quote": null,
+        "sourceUrl": "https://fs.blog/2014/08/book-recommendations-from-billionaire-charlie-munger/",
+        "sourceLabel": "Lista de libros recomendados por Charlie Munger recopilada por Farnam Street."
+      },
+      {
+        "bookId": "deep-simplicity",
+        "quote": null,
+        "sourceUrl": "https://fs.blog/2014/06/charlie-munger-recommended-books/",
+        "sourceLabel": "Recomendado por Munger en la junta de Daily Journal de 2014, según Farnam Street."
       }
     ]
   },
@@ -536,6 +609,48 @@
         "sourceUrl": "https://eriklundegaard.com/item/from-the-archives-my-1996-interview-with-jeff-bezos---part-ii",
         "sourceLabel": "Entrevista de Jeff Bezos con Erik Lundegaard, octubre de 1996.",
         "quoteEs": "Antes era Dune. Soy un poco un obseso de la tecnología, de los de hélice en el gorro, de ciencia ficción."
+      },
+      {
+        "bookId": "built-to-last",
+        "quote": null,
+        "sourceUrl": "https://fs.blog/jeff-bezoss-reading-list/",
+        "sourceLabel": "Lista de lecturas de Bezos y de los directivos de Amazon que Brad Stone recoge en «The Everything Store» (vía Farnam Street)."
+      },
+      {
+        "bookId": "good-to-great",
+        "quote": null,
+        "sourceUrl": "https://fs.blog/jeff-bezoss-reading-list/",
+        "sourceLabel": "Lista de lecturas de Bezos y de los directivos de Amazon que Brad Stone recoge en «The Everything Store» (vía Farnam Street)."
+      },
+      {
+        "bookId": "innovators-dilemma",
+        "quote": null,
+        "sourceUrl": "https://fs.blog/jeff-bezoss-reading-list/",
+        "sourceLabel": "Lista de lecturas de Bezos y de los directivos de Amazon que Brad Stone recoge en «The Everything Store» (vía Farnam Street)."
+      },
+      {
+        "bookId": "mythical-man-month",
+        "quote": null,
+        "sourceUrl": "https://fs.blog/jeff-bezoss-reading-list/",
+        "sourceLabel": "Lista de lecturas de Bezos y de los directivos de Amazon que Brad Stone recoge en «The Everything Store» (vía Farnam Street)."
+      },
+      {
+        "bookId": "the-goal",
+        "quote": null,
+        "sourceUrl": "https://fs.blog/jeff-bezoss-reading-list/",
+        "sourceLabel": "Lista de lecturas de Bezos y de los directivos de Amazon que Brad Stone recoge en «The Everything Store» (vía Farnam Street)."
+      },
+      {
+        "bookId": "black-swan",
+        "quote": null,
+        "sourceUrl": "https://fs.blog/jeff-bezoss-reading-list/",
+        "sourceLabel": "Lista de lecturas de Bezos y de los directivos de Amazon que Brad Stone recoge en «The Everything Store» (vía Farnam Street)."
+      },
+      {
+        "bookId": "made-in-america",
+        "quote": null,
+        "sourceUrl": "https://fs.blog/jeff-bezoss-reading-list/",
+        "sourceLabel": "Lista de lecturas de Bezos y de los directivos de Amazon que Brad Stone recoge en «The Everything Store» (vía Farnam Street)."
       }
     ]
   },
@@ -1487,5 +1602,134 @@
         "sourceLabel": "Libros que señaló como favoritos al responder en The Tim Ferriss Show qué libro regala más; recopilación en el blog de Ferriss (2014)."
       }
     ]
+  },
+  {
+    "id": "mario-vargas-llosa",
+    "name": "Mario Vargas Llosa",
+    "role": "Escritor, premio Nobel de Literatura 2010",
+    "bio": "Novelista peruano y español (1936-2025). En «La verdad de las mentiras» dedicó un ensayo a cada una de las grandes novelas del siglo XX que más admiraba.",
+    "initials": "VL",
+    "hue": 352,
+    "recommendations": [
+      {
+        "bookId": "heart-of-darkness",
+        "quote": null,
+        "sourceUrl": "https://www.cnnchile.com/cultura/libros-recomendados-por-mario-vargas-llosa-lolita-rebelion-en-la-granja-y-el-extranjero_20250414/",
+        "sourceLabel": "Ensayo dedicado a esta novela en «La verdad de las mentiras» (1990; edición ampliada de 2002), según el listado de CNN Chile."
+      },
+      {
+        "bookId": "death-in-venice",
+        "quote": null,
+        "sourceUrl": "https://www.cnnchile.com/cultura/libros-recomendados-por-mario-vargas-llosa-lolita-rebelion-en-la-granja-y-el-extranjero_20250414/",
+        "sourceLabel": "Ensayo dedicado a esta novela en «La verdad de las mentiras» (1990; edición ampliada de 2002), según el listado de CNN Chile."
+      },
+      {
+        "bookId": "dubliners",
+        "quote": null,
+        "sourceUrl": "https://www.cnnchile.com/cultura/libros-recomendados-por-mario-vargas-llosa-lolita-rebelion-en-la-granja-y-el-extranjero_20250414/",
+        "sourceLabel": "Ensayo dedicado a esta novela en «La verdad de las mentiras» (1990; edición ampliada de 2002), según el listado de CNN Chile."
+      },
+      {
+        "bookId": "mrs-dalloway",
+        "quote": null,
+        "sourceUrl": "https://www.cnnchile.com/cultura/libros-recomendados-por-mario-vargas-llosa-lolita-rebelion-en-la-granja-y-el-extranjero_20250414/",
+        "sourceLabel": "Ensayo dedicado a esta novela en «La verdad de las mentiras» (1990; edición ampliada de 2002), según el listado de CNN Chile."
+      },
+      {
+        "bookId": "great-gatsby",
+        "quote": null,
+        "sourceUrl": "https://www.cnnchile.com/cultura/libros-recomendados-por-mario-vargas-llosa-lolita-rebelion-en-la-granja-y-el-extranjero_20250414/",
+        "sourceLabel": "Ensayo dedicado a esta novela en «La verdad de las mentiras» (1990; edición ampliada de 2002), según el listado de CNN Chile."
+      },
+      {
+        "bookId": "steppenwolf",
+        "quote": null,
+        "sourceUrl": "https://www.cnnchile.com/cultura/libros-recomendados-por-mario-vargas-llosa-lolita-rebelion-en-la-granja-y-el-extranjero_20250414/",
+        "sourceLabel": "Ensayo dedicado a esta novela en «La verdad de las mentiras» (1990; edición ampliada de 2002), según el listado de CNN Chile."
+      },
+      {
+        "bookId": "brave-new-world",
+        "quote": null,
+        "sourceUrl": "https://www.cnnchile.com/cultura/libros-recomendados-por-mario-vargas-llosa-lolita-rebelion-en-la-granja-y-el-extranjero_20250414/",
+        "sourceLabel": "Ensayo dedicado a esta novela en «La verdad de las mentiras» (1990; edición ampliada de 2002), según el listado de CNN Chile."
+      },
+      {
+        "bookId": "the-stranger",
+        "quote": null,
+        "sourceUrl": "https://www.cnnchile.com/cultura/libros-recomendados-por-mario-vargas-llosa-lolita-rebelion-en-la-granja-y-el-extranjero_20250414/",
+        "sourceLabel": "Ensayo dedicado a esta novela en «La verdad de las mentiras» (1990; edición ampliada de 2002), según el listado de CNN Chile."
+      },
+      {
+        "bookId": "animal-farm",
+        "quote": null,
+        "sourceUrl": "https://www.cnnchile.com/cultura/libros-recomendados-por-mario-vargas-llosa-lolita-rebelion-en-la-granja-y-el-extranjero_20250414/",
+        "sourceLabel": "Ensayo dedicado a esta novela en «La verdad de las mentiras» (1990; edición ampliada de 2002), según el listado de CNN Chile."
+      },
+      {
+        "bookId": "lolita",
+        "quote": null,
+        "sourceUrl": "https://www.cnnchile.com/cultura/libros-recomendados-por-mario-vargas-llosa-lolita-rebelion-en-la-granja-y-el-extranjero_20250414/",
+        "sourceLabel": "Ensayo dedicado a esta novela en «La verdad de las mentiras» (1990; edición ampliada de 2002), según el listado de CNN Chile."
+      },
+      {
+        "bookId": "the-leopard",
+        "quote": null,
+        "sourceUrl": "https://www.cnnchile.com/cultura/libros-recomendados-por-mario-vargas-llosa-lolita-rebelion-en-la-granja-y-el-extranjero_20250414/",
+        "sourceLabel": "Ensayo dedicado a esta novela en «La verdad de las mentiras» (1990; edición ampliada de 2002), según el listado de CNN Chile."
+      },
+      {
+        "bookId": "tin-drum",
+        "quote": null,
+        "sourceUrl": "https://www.cnnchile.com/cultura/libros-recomendados-por-mario-vargas-llosa-lolita-rebelion-en-la-granja-y-el-extranjero_20250414/",
+        "sourceLabel": "Ensayo dedicado a esta novela en «La verdad de las mentiras» (1990; edición ampliada de 2002), según el listado de CNN Chile."
+      },
+      {
+        "bookId": "pereira-maintains",
+        "quote": null,
+        "sourceUrl": "https://www.cnnchile.com/cultura/libros-recomendados-por-mario-vargas-llosa-lolita-rebelion-en-la-granja-y-el-extranjero_20250414/",
+        "sourceLabel": "Ensayo dedicado a esta novela en «La verdad de las mentiras» (1990; edición ampliada de 2002), según el listado de CNN Chile."
+      },
+      {
+        "bookId": "old-man-sea",
+        "quote": null,
+        "sourceUrl": "https://www.cnnchile.com/cultura/libros-recomendados-por-mario-vargas-llosa-lolita-rebelion-en-la-granja-y-el-extranjero_20250414/",
+        "sourceLabel": "Ensayo dedicado a esta novela en «La verdad de las mentiras» (1990; edición ampliada de 2002), según el listado de CNN Chile."
+      }
+    ],
+    "spanish": true
+  },
+  {
+    "id": "juan-ramon-rallo",
+    "name": "Juan Ramón Rallo",
+    "role": "Economista",
+    "bio": "Economista y divulgador nacido en Benicarló, autor de «Liberalismo» y «Anti-Marx». Ha contado qué libro lo convirtió en economista.",
+    "initials": "JR",
+    "hue": 48,
+    "recommendations": [
+      {
+        "bookId": "human-action",
+        "quote": null,
+        "sourceUrl": "https://www.libertaddigital.com/opinion/libros/el-libro-que-me-convirtio-en-economista-1276236938.html",
+        "sourceLabel": "Artículo de Juan Ramón Rallo en Libertad Digital, «El libro que me convirtió en economista» (2009)."
+      }
+    ],
+    "spanish": true
+  },
+  {
+    "id": "alvaro-guzman-de-lazaro",
+    "name": "Álvaro Guzmán de Lázaro",
+    "role": "Gestor de fondos, cofundador de Azvalor",
+    "bio": "Inversor value español, antes gestor en Bestinver junto a Francisco García Paramés. Recomienda lecturas de inversión en prensa económica.",
+    "initials": "AG",
+    "hue": 210,
+    "recommendations": [
+      {
+        "bookId": "mastering-market-cycle",
+        "quote": "No deje de acompañar a Howards Marks con la lectura de este libro.",
+        "sourceUrl": "https://www.finect.com/grupos/azvalor/articulos/que-lectura-recomienda-alvaro-guzman-lazaro-verano",
+        "sourceLabel": "Recomendación de verano de Guzmán de Lázaro, publicada en Expansión y reproducida por Azvalor (2019)."
+      }
+    ],
+    "spanish": true
   }
 ]
