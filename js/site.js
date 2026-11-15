@@ -45,9 +45,8 @@
   const input = document.getElementById("q");
   if (dataNode && input) {
     const catalog = JSON.parse(dataNode.textContent);
-    const people = document.getElementById("people");
     const results = document.getElementById("results");
-    const cards = people ? Array.from(people.querySelectorAll("[data-name]")) : [];
+    const cards = Array.from(document.querySelectorAll(".people [data-name]"));
 
     function norm(value) {
       return (value || "").toLocaleLowerCase("es").normalize("NFD").replace(/[\u0300-\u036f]/g, "");
