@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#120e0b"/>
+  <rect x="70" y="150" width="150" height="230" rx="4" fill="#6e2e2a" transform="rotate(-8 145 265)"/>
+  <rect x="200" y="120" width="160" height="250" rx="4" fill="#234237"/>
+  <rect x="340" y="145" width="150" height="230" rx="4" fill="#a9783c" transform="rotate(7 415 260)"/>
+  <text x="560" y="270" fill="#f6efe4" font-family="Georgia, serif" font-size="78">Lecturas de</text>
+  <text x="560" y="360" fill="#e4c48a" font-family="Georgia, serif" font-size="84" font-style="italic">gigantes</text>
+  <text x="560" y="430" fill="#cbbba6" font-family="Georgia, sans-serif" font-size="28">Libros recomendados, con la fuente</text>
+</svg>

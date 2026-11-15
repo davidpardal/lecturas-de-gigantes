@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://davidpardal.github.io/lecturas-de-gigantes/sitemap.xml
