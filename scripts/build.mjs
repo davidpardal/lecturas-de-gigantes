@@ -126,6 +126,8 @@ function footer(pathPrefix) {
 <script src="${pathPrefix}js/site.js" defer></script>`;
 }
 
+const cloudflareBeacon = `<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "11d95762138f48e8833beed810ad38c4"}'></script><!-- End Cloudflare Web Analytics -->`;
+
 function clearDir(dir) {
   mkdirSync(dir, { recursive: true });
   for (const file of readdirSync(dir)) {
@@ -255,6 +257,7 @@ ${header("", "home")}
   </div>
 </main>
 <script id="catalog" type="application/json">${JSON.stringify(catalog)}</script>
+${cloudflareBeacon}
 </body>
 </html>
 `;
@@ -300,6 +303,7 @@ ${header("", "most")}
     ${footer("")}
   </div>
 </main>
+${cloudflareBeacon}
 </body>
 </html>`;
 
@@ -359,6 +363,7 @@ ${header("../", "")}
     ${footer("../")}
   </div>
 </main>
+${cloudflareBeacon}
 </body>
 </html>`;
   writeFileSync(join(root, "personas", person.id + ".html"), html);
@@ -415,6 +420,7 @@ ${header("../", "")}
     ${footer("../")}
   </div>
 </main>
+${cloudflareBeacon}
 </body>
 </html>`;
   writeFileSync(join(root, "libros", book.id + ".html"), html);
